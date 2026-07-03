@@ -1,46 +1,46 @@
 {
-  "fecha": "2026-07-02",
+  "fecha": "2026-07-03",
   "totales_nacionales": [
     {
       "grado": "Lactancia",
       "matricula_2025": 2549,
-      "matricula_2026": 2226,
-      "variacion": -323,
-      "porcentaje_variacion": -12.7
+      "matricula_2026": 2233,
+      "variacion": -316,
+      "porcentaje_variacion": -12.4
     },
     {
       "grado": "Inicial 1",
       "matricula_2025": 9329,
-      "matricula_2026": 8590,
-      "variacion": -739,
-      "porcentaje_variacion": -7.9
+      "matricula_2026": 8597,
+      "variacion": -732,
+      "porcentaje_variacion": -7.8
     },
     {
       "grado": "Inicial 2",
       "matricula_2025": 15918,
-      "matricula_2026": 14612,
-      "variacion": -1306,
+      "matricula_2026": 14617,
+      "variacion": -1301,
       "porcentaje_variacion": -8.2
     },
     {
       "grado": "Inicial 3",
       "matricula_2025": 19812,
-      "matricula_2026": 19067,
-      "variacion": -745,
-      "porcentaje_variacion": -3.8
+      "matricula_2026": 19071,
+      "variacion": -741,
+      "porcentaje_variacion": -3.7
     },
     {
       "grado": "Parvularia 4",
       "matricula_2025": 41397,
-      "matricula_2026": 44463,
-      "variacion": 3066,
+      "matricula_2026": 44467,
+      "variacion": 3070,
       "porcentaje_variacion": 7.4
     },
     {
       "grado": "Parvularia 5",
       "matricula_2025": 69490,
-      "matricula_2026": 66780,
-      "variacion": -2710,
+      "matricula_2026": 66771,
+      "variacion": -2719,
       "porcentaje_variacion": -3.9
     },
     {
@@ -53,85 +53,85 @@
     {
       "grado": "Primer Grado",
       "matricula_2025": 90895,
-      "matricula_2026": 88191,
-      "variacion": -2704,
+      "matricula_2026": 88197,
+      "variacion": -2698,
       "porcentaje_variacion": -3.0
     },
     {
       "grado": "Segundo Grado",
       "matricula_2025": 92917,
-      "matricula_2026": 91671,
-      "variacion": -1246,
-      "porcentaje_variacion": -1.3
+      "matricula_2026": 91628,
+      "variacion": -1289,
+      "porcentaje_variacion": -1.4
     },
     {
       "grado": "Tercer Grado",
       "matricula_2025": 105761,
-      "matricula_2026": 93246,
-      "variacion": -12515,
-      "porcentaje_variacion": -11.8
+      "matricula_2026": 93197,
+      "variacion": -12564,
+      "porcentaje_variacion": -11.9
     },
     {
       "grado": "Cuarto Grado",
       "matricula_2025": 101809,
-      "matricula_2026": 106807,
-      "variacion": 4998,
+      "matricula_2026": 106803,
+      "variacion": 4994,
       "porcentaje_variacion": 4.9
     },
     {
       "grado": "Quinto Grado",
       "matricula_2025": 96525,
-      "matricula_2026": 100474,
-      "variacion": 3949,
+      "matricula_2026": 100470,
+      "variacion": 3945,
       "porcentaje_variacion": 4.1
     },
     {
       "grado": "Sexto Grado",
       "matricula_2025": 94856,
-      "matricula_2026": 96377,
-      "variacion": 1521,
+      "matricula_2026": 96388,
+      "variacion": 1532,
       "porcentaje_variacion": 1.6
     },
     {
       "grado": "Séptimo Grado",
       "matricula_2025": 95695,
-      "matricula_2026": 95821,
-      "variacion": 126,
+      "matricula_2026": 95819,
+      "variacion": 124,
       "porcentaje_variacion": 0.1
     },
     {
       "grado": "Octavo Grado",
       "matricula_2025": 88874,
-      "matricula_2026": 90811,
-      "variacion": 1937,
+      "matricula_2026": 90820,
+      "variacion": 1946,
       "porcentaje_variacion": 2.2
     },
     {
       "grado": "Noveno Grado",
       "matricula_2025": 83108,
-      "matricula_2026": 84210,
-      "variacion": 1102,
+      "matricula_2026": 84207,
+      "variacion": 1099,
       "porcentaje_variacion": 1.3
     },
     {
       "grado": "Primer Año",
       "matricula_2025": 83003,
-      "matricula_2026": 82954,
-      "variacion": -49,
-      "porcentaje_variacion": -0.1
+      "matricula_2026": 82782,
+      "variacion": -221,
+      "porcentaje_variacion": -0.3
     },
     {
       "grado": "Segundo Año",
       "matricula_2025": 71022,
-      "matricula_2026": 73262,
-      "variacion": 2240,
-      "porcentaje_variacion": 3.2
+      "matricula_2026": 73208,
+      "variacion": 2186,
+      "porcentaje_variacion": 3.1
     },
     {
       "grado": "Tercer Año",
       "matricula_2025": 19878,
-      "matricula_2026": 20091,
-      "variacion": 213,
+      "matricula_2026": 20092,
+      "variacion": 214,
       "porcentaje_variacion": 1.1
     },
     {
