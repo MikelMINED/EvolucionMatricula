@@ -1,102 +1,98 @@
 {
-  "fecha": "2026-07-08",
+  "fecha": "2026-07-06",
   "tipos": {
     "TODOS": {
-      "Sexto Grado": {
-        "traslados": 14134,
-        "desertores": 3700
-      },
-      "Octavo Grado": {
-        "traslados": 6511,
-        "desertores": 4242
-      },
-      "Parvularia 5": {
-        "traslados": 6538,
-        "desertores": 2505
-      },
-      "Segundo Grado": {
-        "traslados": 8215,
-        "desertores": 1166
-      },
-      "Tercer Grado": {
-        "traslados": 8960,
-        "desertores": 1078
+      "Parvularia 6": {
+        "traslados": 19519,
+        "desertores": 2069
       },
       "Noveno Grado": {
-        "traslados": 52009,
-        "desertores": 10118
+        "traslados": 52024,
+        "desertores": 10091
       },
-      "Parvularia 6": {
-        "traslados": 19537,
-        "desertores": 2068
+      "Segundo Grado": {
+        "traslados": 8187,
+        "desertores": 1164
       },
-      "Primer Grado": {
-        "traslados": 8191,
-        "desertores": 1542
+      "Cuarto Grado": {
+        "traslados": 8289,
+        "desertores": 1456
+      },
+      "Sexto Grado": {
+        "traslados": 14132,
+        "desertores": 3660
+      },
+      "Quinto Grado": {
+        "traslados": 8019,
+        "desertores": 1796
+      },
+      "Tercer Grado": {
+        "traslados": 8943,
+        "desertores": 1038
       },
       "Séptimo Grado": {
-        "traslados": 7815,
-        "desertores": 4548
+        "traslados": 7809,
+        "desertores": 4511
+      },
+      "Parvularia 4": {
+        "traslados": 4537,
+        "desertores": 2968
+      },
+      "Inicial 2": {
+        "traslados": 9330,
+        "desertores": 6160
+      },
+      "Primer Grado": {
+        "traslados": 8159,
+        "desertores": 1542
+      },
+      "Parvularia 5": {
+        "traslados": 6524,
+        "desertores": 2510
       },
       "Segundo Año": {
         "traslados": 1062,
         "desertores": 5575
       },
+      "Primer Año": {
+        "traslados": 6464,
+        "desertores": 8559
+      },
+      "Octavo Grado": {
+        "traslados": 6508,
+        "desertores": 4198
+      },
+      "Inicial 3": {
+        "traslados": 7989,
+        "desertores": 8559
+      },
+      "Inicial 1": {
+        "traslados": 5619,
+        "desertores": 3622
+      },
       "Lactancia": {
         "traslados": 1322,
         "desertores": 1212
       },
-      "Cuarto Grado": {
-        "traslados": 8309,
-        "desertores": 1481
+      "Tercer Año": {
+        "traslados": 36,
+        "desertores": 247
       },
-      "Primer Año": {
-        "traslados": 6465,
-        "desertores": 8572
-      },
-      "Quinto Grado": {
-        "traslados": 8030,
-        "desertores": 1825
-      },
-      "Parvularia 4": {
-        "traslados": 4540,
-        "desertores": 2972
-      },
-      "Inicial 2": {
-        "traslados": 9331,
-        "desertores": 6159
-      },
-      "Inicial 1": {
-        "traslados": 5623,
-        "desertores": 3619
-      },
-      "Inicial 3": {
-        "traslados": 7992,
-        "desertores": 8557
+      "Especialización Laboral Año 1": {
+        "traslados": 0,
+        "desertores": 23
       },
       "Nivel 1": {
         "traslados": 8,
         "desertores": 103
       },
-      "Nivel 2": {
-        "traslados": 6,
-        "desertores": 86
-      },
-      "Tercer Año": {
-        "traslados": 36,
-        "desertores": 248
+      "Especialización Laboral Año 3": {
+        "traslados": 0,
+        "desertores": 56
       },
       "Especialización Laboral Año 2": {
         "traslados": 0,
         "desertores": 27
-      },
-      "Laboral Inicial Año 2": {
-        "traslados": 1,
-        "desertores": 24
-      },
-      "Especialización Laboral Año 3": {
-        "traslados": 0,
-        "desertores": 56
       },
       "Nivel 3": {
         "traslados": 15,
@@ -106,55 +102,59 @@
         "traslados": 5,
         "desertores": 32
       },
-      "Especialización Laboral Año 1": {
-        "traslados": 0,
-        "desertores": 23
+      "Laboral Inicial Año 2": {
+        "traslados": 1,
+        "desertores": 24
+      },
+      "Nivel 2": {
+        "traslados": 6,
+        "desertores": 86
       }
     },
     "ESPECIAL": {
-      "Primer Grado": {
-        "traslados": 49,
-        "desertores": 38
-      },
-      "Cuarto Grado": {
-        "traslados": 30,
-        "desertores": 35
+      "Sexto Grado": {
+        "traslados": 18,
+        "desertores": 28
       },
       "Tercer Grado": {
         "traslados": 34,
         "desertores": 27
       },
-      "Parvularia 5": {
-        "traslados": 15,
-        "desertores": 10
+      "Cuarto Grado": {
+        "traslados": 29,
+        "desertores": 36
+      },
+      "Primer Grado": {
+        "traslados": 49,
+        "desertores": 38
+      },
+      "Parvularia 4": {
+        "traslados": 1,
+        "desertores": 2
+      },
+      "Especialización Laboral Año 1": {
+        "traslados": 0,
+        "desertores": 23
+      },
+      "Octavo Grado": {
+        "traslados": 1,
+        "desertores": 0
       },
       "Segundo Grado": {
         "traslados": 42,
         "desertores": 55
       },
-      "Séptimo Grado": {
-        "traslados": 3,
-        "desertores": 1
+      "Especialización Laboral Año 3": {
+        "traslados": 0,
+        "desertores": 56
       },
       "Especialización Laboral Año 2": {
         "traslados": 0,
         "desertores": 27
       },
-      "Sexto Grado": {
-        "traslados": 18,
-        "desertores": 28
-      },
-      "Parvularia 6": {
-        "traslados": 20,
-        "desertores": 15
-      },
-      "Laboral Inicial Año 2": {
-        "traslados": 1,
-        "desertores": 24
-      },
-      "Especialización Laboral Año 3": {
-        "traslados": 0,
-        "desertores": 56
+      "Séptimo Grado": {
+        "traslados": 3,
+        "desertores": 1
       },
       "Quinto Grado": {
         "traslados": 14,
@@ -164,31 +164,31 @@
         "traslados": 5,
         "desertores": 32
       },
-      "Primer Año": {
-        "traslados": 0,
-        "desertores": 3
-      },
-      "Parvularia 4": {
-        "traslados": 1,
-        "desertores": 2
-      },
       "Noveno Grado": {
         "traslados": 6,
         "desertores": 2
       },
-      "Especialización Laboral Año 1": {
-        "traslados": 0,
-        "desertores": 23
+      "Parvularia 6": {
+        "traslados": 20,
+        "desertores": 15
       },
-      "Octavo Grado": {
+      "Parvularia 5": {
+        "traslados": 15,
+        "desertores": 10
+      },
+      "Laboral Inicial Año 2": {
         "traslados": 1,
-        "desertores": 0
+        "desertores": 24
+      },
+      "Primer Año": {
+        "traslados": 0,
+        "desertores": 3
       }
     },
     "MOD_FLEX_CE": {
       "Primer Año": {
-        "traslados": 315,
-        "desertores": 1945
+        "traslados": 314,
+        "desertores": 1946
       },
       "Segundo Año": {
         "traslados": 103,
@@ -198,45 +198,37 @@
         "traslados": 281,
         "desertores": 615
       },
-      "Octavo Grado": {
-        "traslados": 57,
-        "desertores": 544
-      },
       "Séptimo Grado": {
         "traslados": 51,
         "desertores": 510
+      },
+      "Octavo Grado": {
+        "traslados": 57,
+        "desertores": 544
       }
     },
     "MOD_FLEX_SOCIOS": {
-      "Primer Año": {
-        "traslados": 777,
-        "desertores": 1835
-      },
       "Segundo Año": {
         "traslados": 75,
         "desertores": 1145
       },
-      "Noveno Grado": {
-        "traslados": 71,
-        "desertores": 251
-      },
-      "Séptimo Grado": {
-        "traslados": 50,
-        "desertores": 230
+      "Primer Año": {
+        "traslados": 776,
+        "desertores": 1836
       },
       "Octavo Grado": {
         "traslados": 111,
-        "desertores": 272
+        "desertores": 273
       },
-      "Parvularia 4": {
-        "traslados": 0,
-        "desertores": 0
+      "Séptimo Grado": {
+        "traslados": 50,
+        "desertores": 229
+      },
+      "Noveno Grado": {
+        "traslados": 70,
+        "desertores": 253
       },
       "Segundo Grado": {
-        "traslados": 0,
-        "desertores": 0
-      },
-      "Inicial 3": {
         "traslados": 0,
         "desertores": 0
       },
@@ -244,11 +236,23 @@
         "traslados": 0,
         "desertores": 0
       },
+      "Primer Grado": {
+        "traslados": 0,
+        "desertores": 0
+      },
+      "Sexto Grado": {
+        "traslados": 0,
+        "desertores": 0
+      },
       "Quinto Grado": {
         "traslados": 0,
         "desertores": 0
       },
-      "Primer Grado": {
+      "Parvularia 4": {
+        "traslados": 0,
+        "desertores": 0
+      },
+      "Inicial 3": {
         "traslados": 0,
         "desertores": 0
       },
@@ -256,15 +260,11 @@
         "traslados": 1,
         "desertores": 0
       },
-      "Sexto Grado": {
+      "Inicial 2": {
         "traslados": 0,
         "desertores": 0
       },
       "Parvularia 6": {
-        "traslados": 0,
-        "desertores": 0
-      },
-      "Inicial 2": {
         "traslados": 0,
         "desertores": 0
       },
@@ -274,89 +274,89 @@
       }
     },
     "REGULAR": {
-      "Sexto Grado": {
-        "traslados": 14116,
-        "desertores": 3672
-      },
-      "Octavo Grado": {
-        "traslados": 6342,
-        "desertores": 3426
-      },
-      "Parvularia 5": {
-        "traslados": 5964,
-        "desertores": 2221
-      },
-      "Segundo Grado": {
-        "traslados": 8173,
-        "desertores": 1111
-      },
-      "Tercer Grado": {
-        "traslados": 8926,
-        "desertores": 1051
+      "Parvularia 6": {
+        "traslados": 19173,
+        "desertores": 1919
       },
       "Noveno Grado": {
-        "traslados": 51651,
-        "desertores": 9250
+        "traslados": 51667,
+        "desertores": 9221
       },
-      "Parvularia 6": {
-        "traslados": 19191,
-        "desertores": 1918
+      "Segundo Grado": {
+        "traslados": 8145,
+        "desertores": 1109
       },
-      "Primer Grado": {
-        "traslados": 8142,
-        "desertores": 1504
+      "Cuarto Grado": {
+        "traslados": 8259,
+        "desertores": 1420
+      },
+      "Sexto Grado": {
+        "traslados": 14114,
+        "desertores": 3632
+      },
+      "Quinto Grado": {
+        "traslados": 8005,
+        "desertores": 1770
+      },
+      "Tercer Grado": {
+        "traslados": 8909,
+        "desertores": 1011
       },
       "Séptimo Grado": {
-        "traslados": 7711,
-        "desertores": 3807
+        "traslados": 7705,
+        "desertores": 3771
+      },
+      "Parvularia 4": {
+        "traslados": 3666,
+        "desertores": 2432
+      },
+      "Primer Grado": {
+        "traslados": 8110,
+        "desertores": 1504
+      },
+      "Parvularia 5": {
+        "traslados": 5950,
+        "desertores": 2226
       },
       "Segundo Año": {
         "traslados": 884,
         "desertores": 3138
       },
-      "Cuarto Grado": {
-        "traslados": 8278,
-        "desertores": 1446
-      },
       "Primer Año": {
-        "traslados": 5373,
-        "desertores": 4789
+        "traslados": 5374,
+        "desertores": 4774
       },
-      "Quinto Grado": {
-        "traslados": 8016,
-        "desertores": 1799
-      },
-      "Parvularia 4": {
-        "traslados": 3669,
-        "desertores": 2436
-      },
-      "Inicial 1": {
-        "traslados": 11,
-        "desertores": 54
-      },
-      "Nivel 1": {
-        "traslados": 8,
-        "desertores": 103
+      "Octavo Grado": {
+        "traslados": 6339,
+        "desertores": 3381
       },
       "Inicial 3": {
         "traslados": 374,
         "desertores": 426
       },
-      "Nivel 2": {
-        "traslados": 6,
-        "desertores": 86
-      },
-      "Tercer Año": {
-        "traslados": 36,
-        "desertores": 248
-      },
       "Inicial 2": {
         "traslados": 73,
         "desertores": 142
       },
+      "Tercer Año": {
+        "traslados": 36,
+        "desertores": 247
+      },
+      "Nivel 1": {
+        "traslados": 8,
+        "desertores": 103
+      },
       "Nivel 3": {
         "traslados": 15,
         "desertores": 191
+      },
+      "Inicial 1": {
+        "traslados": 11,
+        "desertores": 53
+      },
+      "Nivel 2": {
+        "traslados": 6,
+        "desertores": 86
       },
       "Lactancia": {
         "traslados": 5,
@@ -364,29 +364,29 @@
       }
     },
     "REGULAR_CAPI": {
-      "Parvularia 6": {
-        "traslados": 326,
-        "desertores": 135
-      },
-      "Inicial 3": {
-        "traslados": 1235,
-        "desertores": 747
-      },
       "Inicial 2": {
-        "traslados": 1165,
-        "desertores": 504
+        "traslados": 1166,
+        "desertores": 503
       },
       "Parvularia 5": {
         "traslados": 559,
         "desertores": 274
       },
+      "Inicial 1": {
+        "traslados": 583,
+        "desertores": 212
+      },
+      "Inicial 3": {
+        "traslados": 1234,
+        "desertores": 748
+      },
       "Parvularia 4": {
         "traslados": 836,
         "desertores": 508
       },
-      "Inicial 1": {
-        "traslados": 584,
-        "desertores": 211
+      "Parvularia 6": {
+        "traslados": 326,
+        "desertores": 135
       },
       "Lactancia": {
         "traslados": 119,
@@ -394,21 +394,21 @@
       }
     },
     "REGULAR_VFC": {
+      "Inicial 2": {
+        "traslados": 8091,
+        "desertores": 5515
+      },
+      "Inicial 3": {
+        "traslados": 6381,
+        "desertores": 7385
+      },
+      "Inicial 1": {
+        "traslados": 5025,
+        "desertores": 3357
+      },
       "Lactancia": {
         "traslados": 1198,
         "desertores": 1091
-      },
-      "Inicial 2": {
-        "traslados": 8093,
-        "desertores": 5513
-      },
-      "Inicial 1": {
-        "traslados": 5028,
-        "desertores": 3354
-      },
-      "Inicial 3": {
-        "traslados": 6383,
-        "desertores": 7384
       },
       "Parvularia 4": {
         "traslados": 34,
