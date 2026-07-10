@@ -1543,50 +1543,5 @@
     "nuevos_vs2025": 128218,
     "pub2priv_vs2025": 12073,
     "priv2pub_vs2025": 12892
-  },
-  {
-    "fecha": "2026-07-07",
-    "total": 1260831,
-    "publico": 1104496,
-    "privado": 156335,
-    "pct_publico": 87.6,
-    "pub2priv": 10,
-    "priv2pub": 14,
-    "nuevos": 232,
-    "salieron": 353,
-    "sin_continuidad_vs2025": 71631,
-    "nuevos_vs2025": 128249,
-    "pub2priv_vs2025": 12063,
-    "priv2pub_vs2025": 12900
-  },
-  {
-    "fecha": "2026-07-08",
-    "total": 1260742,
-    "publico": 1104459,
-    "privado": 156283,
-    "pct_publico": 87.6,
-    "pub2priv": 3,
-    "priv2pub": 4,
-    "nuevos": 91,
-    "salieron": 180,
-    "sin_continuidad_vs2025": 71729,
-    "nuevos_vs2025": 128258,
-    "pub2priv_vs2025": 12064,
-    "priv2pub_vs2025": 12902
-  },
-  {
-    "fecha": "2026-07-10",
-    "total": 1260757,
-    "publico": 1104437,
-    "privado": 156320,
-    "pct_publico": 87.6,
-    "pub2priv": 21,
-    "priv2pub": 13,
-    "nuevos": 424,
-    "salieron": 409,
-    "sin_continuidad_vs2025": 71790,
-    "nuevos_vs2025": 128334,
-    "pub2priv_vs2025": 12079,
-    "priv2pub_vs2025": 12911
   }
 ]
