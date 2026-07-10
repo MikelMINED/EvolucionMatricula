@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-06",
+  "fecha": "2026-07-07",
   "totales_nacionales": [
     {
       "grado_2025": "Cuarto Año Técnico",
@@ -14,7 +14,7 @@
       "grado_2025": "Cuarto Grado",
       "grado_2026": "Quinto Grado",
       "matricula_2025": 101809,
-      "continuidad": 96355,
+      "continuidad": 96352,
       "porcentaje_continuidad": 94.6,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -50,7 +50,7 @@
       "grado_2025": "Inicial 1",
       "grado_2026": "Inicial 2",
       "matricula_2025": 9329,
-      "continuidad": 4925,
+      "continuidad": 4924,
       "porcentaje_continuidad": 52.8,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -68,7 +68,7 @@
       "grado_2025": "Inicial 3",
       "grado_2026": "Parvularia 4",
       "matricula_2025": 19812,
-      "continuidad": 9726,
+      "continuidad": 9727,
       "porcentaje_continuidad": 49.1,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -95,8 +95,8 @@
       "grado_2025": "Lactancia",
       "grado_2026": "Inicial 1",
       "matricula_2025": 2549,
-      "continuidad": 1220,
-      "porcentaje_continuidad": 47.9,
+      "continuidad": 1219,
+      "porcentaje_continuidad": 47.8,
       "fin_trayectoria": false,
       "modalidad": ""
     },
@@ -131,7 +131,7 @@
       "grado_2025": "Noveno Grado",
       "grado_2026": "Primer Año General, Primer Año Técnico",
       "matricula_2025": 83108,
-      "continuidad": 71605,
+      "continuidad": 71600,
       "porcentaje_continuidad": 86.2,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -140,7 +140,7 @@
       "grado_2025": "Octavo Grado",
       "grado_2026": "Noveno Grado",
       "matricula_2025": 88874,
-      "continuidad": 81418,
+      "continuidad": 81385,
       "porcentaje_continuidad": 91.6,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -149,7 +149,7 @@
       "grado_2025": "Parvularia 4",
       "grado_2026": "Parvularia 5",
       "matricula_2025": 41397,
-      "continuidad": 37254,
+      "continuidad": 37251,
       "porcentaje_continuidad": 90.0,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -158,7 +158,7 @@
       "grado_2025": "Parvularia 5",
       "grado_2026": "Parvularia 6",
       "matricula_2025": 69490,
-      "continuidad": 65862,
+      "continuidad": 65864,
       "porcentaje_continuidad": 94.8,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -167,7 +167,7 @@
       "grado_2025": "Parvularia 6",
       "grado_2026": "Primer Grado",
       "matricula_2025": 83181,
-      "continuidad": 80690,
+      "continuidad": 80688,
       "porcentaje_continuidad": 97.0,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -176,7 +176,7 @@
       "grado_2025": "Primer Año General",
       "grado_2026": "Segundo Año General",
       "matricula_2025": 54683,
-      "continuidad": 44439,
+      "continuidad": 44454,
       "porcentaje_continuidad": 81.3,
       "fin_trayectoria": false,
       "modalidad": "General"
@@ -185,7 +185,7 @@
       "grado_2025": "Primer Año Técnico",
       "grado_2026": "Segundo Año Técnico",
       "matricula_2025": 28320,
-      "continuidad": 22457,
+      "continuidad": 22453,
       "porcentaje_continuidad": 79.3,
       "fin_trayectoria": false,
       "modalidad": "Técnico"
@@ -194,7 +194,7 @@
       "grado_2025": "Primer Grado",
       "grado_2026": "Segundo Grado",
       "matricula_2025": 90895,
-      "continuidad": 87650,
+      "continuidad": 87649,
       "porcentaje_continuidad": 96.4,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -203,8 +203,8 @@
       "grado_2025": "Quinto Grado",
       "grado_2026": "Sexto Grado",
       "matricula_2025": 96525,
-      "continuidad": 91659,
-      "porcentaje_continuidad": 95.0,
+      "continuidad": 91636,
+      "porcentaje_continuidad": 94.9,
       "fin_trayectoria": false,
       "modalidad": ""
     },
@@ -221,7 +221,7 @@
       "grado_2025": "Segundo Año Técnico",
       "grado_2026": "Tercer Año Técnico",
       "matricula_2025": 21546,
-      "continuidad": 19670,
+      "continuidad": 19672,
       "porcentaje_continuidad": 91.3,
       "fin_trayectoria": false,
       "modalidad": "Técnico"
@@ -230,7 +230,7 @@
       "grado_2025": "Segundo Grado",
       "grado_2026": "Tercer Grado",
       "matricula_2025": 92917,
-      "continuidad": 89137,
+      "continuidad": 89119,
       "porcentaje_continuidad": 95.9,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -239,7 +239,7 @@
       "grado_2025": "Sexto Grado",
       "grado_2026": "Séptimo Grado",
       "matricula_2025": 94856,
-      "continuidad": 88027,
+      "continuidad": 87999,
       "porcentaje_continuidad": 92.8,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -248,8 +248,8 @@
       "grado_2025": "Séptimo Grado",
       "grado_2026": "Octavo Grado",
       "matricula_2025": 95695,
-      "continuidad": 86088,
-      "porcentaje_continuidad": 90.0,
+      "continuidad": 86057,
+      "porcentaje_continuidad": 89.9,
       "fin_trayectoria": false,
       "modalidad": ""
     },
@@ -266,7 +266,7 @@
       "grado_2025": "Tercer Grado",
       "grado_2026": "Cuarto Grado",
       "matricula_2025": 105761,
-      "continuidad": 101734,
+      "continuidad": 101728,
       "porcentaje_continuidad": 96.2,
       "fin_trayectoria": false,
       "modalidad": ""
