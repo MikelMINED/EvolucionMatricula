@@ -1633,5 +1633,20 @@
     "nuevos_vs2025": 128420,
     "pub2priv_vs2025": 12118,
     "priv2pub_vs2025": 12925
+  },
+  {
+    "fecha": "2026-07-16",
+    "total": 1260784,
+    "publico": 1104177,
+    "privado": 156607,
+    "pct_publico": 87.6,
+    "pub2priv": 3,
+    "priv2pub": 6,
+    "nuevos": 366,
+    "salieron": 180,
+    "sin_continuidad_vs2025": 71903,
+    "nuevos_vs2025": 128474,
+    "pub2priv_vs2025": 12127,
+    "priv2pub_vs2025": 12929
   }
 ]
