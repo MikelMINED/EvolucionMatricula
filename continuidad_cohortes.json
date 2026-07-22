@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-07-20",
+  "fecha": "2026-07-21",
   "totales_nacionales": [
     {
       "grado_2025": "Cuarto Año Técnico",
@@ -14,7 +14,7 @@
       "grado_2025": "Cuarto Grado",
       "grado_2026": "Quinto Grado",
       "matricula_2025": 101809,
-      "continuidad": 96253,
+      "continuidad": 96251,
       "porcentaje_continuidad": 94.5,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -50,7 +50,7 @@
       "grado_2025": "Inicial 1",
       "grado_2026": "Inicial 2",
       "matricula_2025": 9329,
-      "continuidad": 4955,
+      "continuidad": 4954,
       "porcentaje_continuidad": 53.1,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -68,7 +68,7 @@
       "grado_2025": "Inicial 3",
       "grado_2026": "Parvularia 4",
       "matricula_2025": 19812,
-      "continuidad": 9733,
+      "continuidad": 9735,
       "porcentaje_continuidad": 49.1,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -131,7 +131,7 @@
       "grado_2025": "Noveno Grado",
       "grado_2026": "Primer Año General, Primer Año Técnico",
       "matricula_2025": 83108,
-      "continuidad": 71420,
+      "continuidad": 71403,
       "porcentaje_continuidad": 85.9,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -140,7 +140,7 @@
       "grado_2025": "Octavo Grado",
       "grado_2026": "Noveno Grado",
       "matricula_2025": 88874,
-      "continuidad": 81343,
+      "continuidad": 81332,
       "porcentaje_continuidad": 91.5,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -149,7 +149,7 @@
       "grado_2025": "Parvularia 4",
       "grado_2026": "Parvularia 5",
       "matricula_2025": 41397,
-      "continuidad": 37253,
+      "continuidad": 37256,
       "porcentaje_continuidad": 90.0,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -158,7 +158,7 @@
       "grado_2025": "Parvularia 5",
       "grado_2026": "Parvularia 6",
       "matricula_2025": 69490,
-      "continuidad": 65880,
+      "continuidad": 65878,
       "porcentaje_continuidad": 94.8,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -167,7 +167,7 @@
       "grado_2025": "Parvularia 6",
       "grado_2026": "Primer Grado",
       "matricula_2025": 83181,
-      "continuidad": 80689,
+      "continuidad": 80688,
       "porcentaje_continuidad": 97.0,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -185,7 +185,7 @@
       "grado_2025": "Primer Año Técnico",
       "grado_2026": "Segundo Año Técnico",
       "matricula_2025": 28320,
-      "continuidad": 22423,
+      "continuidad": 22421,
       "porcentaje_continuidad": 79.2,
       "fin_trayectoria": false,
       "modalidad": "Técnico"
@@ -194,7 +194,7 @@
       "grado_2025": "Primer Grado",
       "grado_2026": "Segundo Grado",
       "matricula_2025": 90895,
-      "continuidad": 87642,
+      "continuidad": 87640,
       "porcentaje_continuidad": 96.4,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -203,7 +203,7 @@
       "grado_2025": "Quinto Grado",
       "grado_2026": "Sexto Grado",
       "matricula_2025": 96525,
-      "continuidad": 91608,
+      "continuidad": 91600,
       "porcentaje_continuidad": 94.9,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -221,7 +221,7 @@
       "grado_2025": "Segundo Año Técnico",
       "grado_2026": "Tercer Año Técnico",
       "matricula_2025": 21546,
-      "continuidad": 19691,
+      "continuidad": 19695,
       "porcentaje_continuidad": 91.4,
       "fin_trayectoria": false,
       "modalidad": "Técnico"
@@ -239,7 +239,7 @@
       "grado_2025": "Sexto Grado",
       "grado_2026": "Séptimo Grado",
       "matricula_2025": 94856,
-      "continuidad": 87977,
+      "continuidad": 87971,
       "porcentaje_continuidad": 92.7,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -248,7 +248,7 @@
       "grado_2025": "Séptimo Grado",
       "grado_2026": "Octavo Grado",
       "matricula_2025": 95695,
-      "continuidad": 86014,
+      "continuidad": 86008,
       "porcentaje_continuidad": 89.9,
       "fin_trayectoria": false,
       "modalidad": ""
