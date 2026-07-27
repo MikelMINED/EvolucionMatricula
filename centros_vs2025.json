@@ -1,10 +1,10 @@
 {
-  "2026-07-24": {
+  "2026-07-27": {
     "nuevos_por_centro": [
       {
         "código": "E0741",
         "nombre": "INSTITUTO NACIONAL DE MODALIDADES EDUCATIVAS ALTERNAS",
-        "cantidad": 331
+        "cantidad": 328
       },
       {
         "código": "11040",
@@ -24,7 +24,7 @@
       {
         "código": "50001-004",
         "nombre": "PREPARE",
-        "cantidad": 220
+        "cantidad": 217
       },
       {
         "código": "10008",
@@ -69,7 +69,7 @@
       {
         "código": "11667",
         "nombre": "COMPLEJO EDUCATIVO \"JOAQUIN RODEZNO\"",
-        "cantidad": 165
+        "cantidad": 166
       },
       {
         "código": "10031",
@@ -112,11 +112,6 @@
         "cantidad": 135
       },
       {
-        "código": "10286",
-        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \" DE EL CONGO \"",
-        "cantidad": 135
-      },
-      {
         "código": "11782",
         "nombre": "COMPLEJO EDUCATIVO \"REFUGIO SIFONTES\"",
         "cantidad": 135
@@ -132,13 +127,13 @@
         "cantidad": 134
       },
       {
-        "código": "11722",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \" COLONIA LAS BRISAS \"",
+        "código": "11509",
+        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"PROFESORA MARGOTH TULA DE MORAN\"",
         "cantidad": 133
       },
       {
-        "código": "11509",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"PROFESORA MARGOTH TULA DE MORAN\"",
+        "código": "11722",
+        "nombre": "ESCUELA DE EDUCACION PARVULARIA \" COLONIA LAS BRISAS \"",
         "cantidad": 133
       },
       {
@@ -147,14 +142,19 @@
         "cantidad": 132
       },
       {
+        "código": "11322",
+        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"POPOTLÁN\"",
+        "cantidad": 131
+      },
+      {
         "código": "13087",
         "nombre": "COMPLEJO EDUCATIVO \"AMINTA DE MONTIEL\"",
         "cantidad": 131
       },
       {
-        "código": "11322",
-        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"POPOTLÁN\"",
-        "cantidad": 131
+        "código": "10286",
+        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \" DE EL CONGO \"",
+        "cantidad": 130
       },
       {
         "código": "13083",
@@ -192,23 +192,23 @@
         "cantidad": 120
       },
       {
-        "código": "20817",
-        "nombre": "COLEGIO ESPAÑOL PADRE ARRUPE",
-        "cantidad": 118
-      },
-      {
         "código": "12426",
         "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"MARÍA ISABEL MIRANDA\"",
         "cantidad": 118
       },
       {
-        "código": "11366",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"ALBERTO MASFERRER\"",
+        "código": "20817",
+        "nombre": "COLEGIO ESPAÑOL PADRE ARRUPE",
         "cantidad": 118
       },
       {
         "código": "10491",
         "nombre": "COMPLEJO EDUCATIVO \"CAPITAN GENERAL GERARDO BARRIOS\"",
+        "cantidad": 118
+      },
+      {
+        "código": "11366",
+        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"ALBERTO MASFERRER\"",
         "cantidad": 118
       },
       {
@@ -222,19 +222,14 @@
         "cantidad": 116
       },
       {
-        "código": "11291",
-        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"PROFESORA NORMA BESSY CÁRCAMO DE GAMERO\"",
-        "cantidad": 115
-      },
-      {
         "código": "10740",
         "nombre": "ESCUELA DE EDUCACION PARVULARIA \"DOLORES DE BRITO\"",
         "cantidad": 115
       },
       {
-        "código": "10639",
-        "nombre": "COMPLEJO EDUCATIVO  \"JORGE LARDÉ \"",
-        "cantidad": 114
+        "código": "11291",
+        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"PROFESORA NORMA BESSY CÁRCAMO DE GAMERO\"",
+        "cantidad": 115
       },
       {
         "código": "11763",
@@ -242,13 +237,18 @@
         "cantidad": 114
       },
       {
-        "código": "12504",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"FEDERICO EVERARDO NOLTENIUS\"",
+        "código": "10639",
+        "nombre": "COMPLEJO EDUCATIVO  \"JORGE LARDÉ \"",
+        "cantidad": 114
+      },
+      {
+        "código": "13713",
+        "nombre": "CENTRO ESCOLAR \"URBANIZACION LAS MARGARITAS \"",
         "cantidad": 113
       },
       {
-        "código": "11011",
-        "nombre": "CENTRO ESCOLAR \"IGNACIO ELLACURIA\"",
+        "código": "12504",
+        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"FEDERICO EVERARDO NOLTENIUS\"",
         "cantidad": 113
       }
     ],
@@ -256,8 +256,8 @@
       {
         "código": "50000",
         "nombre": "INSTITUTO CRECER JUNTOS ICJ",
-        "cantidad_desertores": 9483,
-        "cantidad_traslados": 15547,
+        "cantidad_desertores": 9475,
+        "cantidad_traslados": 15555,
         "cantidad_graduados": 0
       },
       {
@@ -285,7 +285,7 @@
         "código": "11540",
         "nombre": "INSTITUTO NACIONAL \"GENERAL FRANCISCO MENÉNDEZ \"",
         "cantidad_desertores": 191,
-        "cantidad_traslados": 235,
+        "cantidad_traslados": 236,
         "cantidad_graduados": 690
       },
       {
@@ -298,7 +298,7 @@
       {
         "código": "90008",
         "nombre": "CENTRO ESCOLAR \"DOCTOR LUCIO ALVARENGA\"",
-        "cantidad_desertores": 172,
+        "cantidad_desertores": 173,
         "cantidad_traslados": 4,
         "cantidad_graduados": 0
       },
@@ -320,7 +320,7 @@
         "código": "10031",
         "nombre": "COMPLEJO EDUCATIVO \"DOCTOR ARTURO ROMERO\"",
         "cantidad_desertores": 151,
-        "cantidad_traslados": 126,
+        "cantidad_traslados": 127,
         "cantidad_graduados": 77
       },
       {
@@ -354,8 +354,8 @@
       {
         "código": "12101",
         "nombre": "COMPLEJO EDUCATIVO \"PROFESOR JUAN OSCAR SALOMÓN\"",
-        "cantidad_desertores": 131,
-        "cantidad_traslados": 53,
+        "cantidad_desertores": 130,
+        "cantidad_traslados": 54,
         "cantidad_graduados": 19
       },
       {
@@ -368,9 +368,16 @@
       {
         "código": "10052",
         "nombre": "COMPLEJO EDUCATIVO \"ALEJANDRO DE HUMBOLDT\"",
-        "cantidad_desertores": 125,
+        "cantidad_desertores": 127,
         "cantidad_traslados": 149,
         "cantidad_graduados": 503
+      },
+      {
+        "código": "11507",
+        "nombre": "COMPLEJO EDUCATIVO \"JORGE LARDE\"",
+        "cantidad_desertores": 125,
+        "cantidad_traslados": 226,
+        "cantidad_graduados": 102
       },
       {
         "código": "11117",
@@ -378,13 +385,6 @@
         "cantidad_desertores": 124,
         "cantidad_traslados": 88,
         "cantidad_graduados": 353
-      },
-      {
-        "código": "11507",
-        "nombre": "COMPLEJO EDUCATIVO \"JORGE LARDE\"",
-        "cantidad_desertores": 123,
-        "cantidad_traslados": 228,
-        "cantidad_graduados": 102
       },
       {
         "código": "20478",
@@ -396,8 +396,8 @@
       {
         "código": "12083",
         "nombre": "INSTITUTO NACIONAL \"JOSÉ SIMEON CAÑAS\"",
-        "cantidad_desertores": 118,
-        "cantidad_traslados": 41,
+        "cantidad_desertores": 116,
+        "cantidad_traslados": 43,
         "cantidad_graduados": 519
       },
       {
@@ -445,8 +445,8 @@
       {
         "código": "11089",
         "nombre": "COMPLEJO EDUCATIVO \"EDUARDO GUIROLA\"",
-        "cantidad_desertores": 109,
-        "cantidad_traslados": 64,
+        "cantidad_desertores": 110,
+        "cantidad_traslados": 63,
         "cantidad_graduados": 46
       },
       {
@@ -506,11 +506,11 @@
         "cantidad_graduados": 0
       },
       {
-        "código": "11543",
-        "nombre": "INSTITUTO  NACIONAL TECNICO INDUSTRIAL",
-        "cantidad_desertores": 102,
-        "cantidad_traslados": 89,
-        "cantidad_graduados": 319
+        "código": "11030",
+        "nombre": "COMPLEJO EDUCATIVO   \"SOR CLARA QUIROZ\"",
+        "cantidad_desertores": 101,
+        "cantidad_traslados": 86,
+        "cantidad_graduados": 15
       },
       {
         "código": "10452",
@@ -520,11 +520,11 @@
         "cantidad_graduados": 0
       },
       {
-        "código": "11030",
-        "nombre": "COMPLEJO EDUCATIVO   \"SOR CLARA QUIROZ\"",
+        "código": "11543",
+        "nombre": "INSTITUTO  NACIONAL TECNICO INDUSTRIAL",
         "cantidad_desertores": 101,
-        "cantidad_traslados": 86,
-        "cantidad_graduados": 15
+        "cantidad_traslados": 90,
+        "cantidad_graduados": 319
       },
       {
         "código": "11028",
@@ -534,18 +534,18 @@
         "cantidad_graduados": 328
       },
       {
-        "código": "12055",
-        "nombre": "COMPLEJO EDUCATIVO \"SOLEDAD MELARA DE ARGUETA\"",
-        "cantidad_desertores": 98,
-        "cantidad_traslados": 25,
-        "cantidad_graduados": 19
-      },
-      {
         "código": "10022",
         "nombre": "CENTRO ESCOLAR \"CANTÓN LOS MAGUEYES\"",
         "cantidad_desertores": 98,
         "cantidad_traslados": 127,
         "cantidad_graduados": 12
+      },
+      {
+        "código": "12055",
+        "nombre": "COMPLEJO EDUCATIVO \"SOLEDAD MELARA DE ARGUETA\"",
+        "cantidad_desertores": 98,
+        "cantidad_traslados": 25,
+        "cantidad_graduados": 19
       },
       {
         "código": "11420",
@@ -590,18 +590,18 @@
         "cantidad_graduados": 131
       },
       {
-        "código": "10732",
-        "nombre": "CENTRO ESCOLAR \" SALVADOR DIAZ ROA \"",
-        "cantidad_desertores": 95,
-        "cantidad_traslados": 110,
-        "cantidad_graduados": 36
-      },
-      {
         "código": "84052",
         "nombre": "CENTRO ESCOLAR CASERÍO EL RETÉN, CANTÓN CIRIGUAL",
         "cantidad_desertores": 94,
         "cantidad_traslados": 13,
         "cantidad_graduados": 0
+      },
+      {
+        "código": "10732",
+        "nombre": "CENTRO ESCOLAR \" SALVADOR DIAZ ROA \"",
+        "cantidad_desertores": 94,
+        "cantidad_traslados": 111,
+        "cantidad_graduados": 36
       }
     ]
   }
