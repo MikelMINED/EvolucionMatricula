@@ -1,5 +1,5 @@
 {
-  "2026-07-29": {
+  "2026-07-30": {
     "nuevos_por_centro": [
       {
         "código": "E0741",
@@ -54,7 +54,7 @@
       {
         "código": "11804",
         "nombre": "ESCUELA DE EDUCACION PARVULARIA \"MARIA BEDOYA AGUILAR\"",
-        "cantidad": 176
+        "cantidad": 177
       },
       {
         "código": "11346",
@@ -82,23 +82,23 @@
         "cantidad": 144
       },
       {
-        "código": "11103",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \" DE LA LIBERTAD \"",
-        "cantidad": 140
-      },
-      {
         "código": "13045",
         "nombre": "COMPLEJO EDUCATIVO \"FE Y ALEGRIA\"",
         "cantidad": 140
       },
       {
-        "código": "10470",
-        "nombre": "COMPLEJO EDUCATIVO \"PROFESOR MARTÍN ROMEO MONTERROSA RODRÍGUEZ\"",
-        "cantidad": 139
+        "código": "11103",
+        "nombre": "ESCUELA DE EDUCACION PARVULARIA \" DE LA LIBERTAD \"",
+        "cantidad": 140
       },
       {
         "código": "11741",
         "nombre": "COMPLEJO EDUCATIVO \" DISTRITO ITALIA \"",
+        "cantidad": 139
+      },
+      {
+        "código": "10470",
+        "nombre": "COMPLEJO EDUCATIVO \"PROFESOR MARTÍN ROMEO MONTERROSA RODRÍGUEZ\"",
         "cantidad": 139
       },
       {
@@ -112,13 +112,13 @@
         "cantidad": 136
       },
       {
-        "código": "12189",
-        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"GABRIELA MISTRAL\"",
+        "código": "11782",
+        "nombre": "COMPLEJO EDUCATIVO \"REFUGIO SIFONTES\"",
         "cantidad": 135
       },
       {
-        "código": "11782",
-        "nombre": "COMPLEJO EDUCATIVO \"REFUGIO SIFONTES\"",
+        "código": "12189",
+        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"GABRIELA MISTRAL\"",
         "cantidad": 135
       },
       {
@@ -137,11 +137,6 @@
         "cantidad": 132
       },
       {
-        "código": "13087",
-        "nombre": "COMPLEJO EDUCATIVO \"AMINTA DE MONTIEL\"",
-        "cantidad": 131
-      },
-      {
         "código": "10407",
         "nombre": "CENTRO ESCOLAR \"COLONIA SANTA LEONOR\"",
         "cantidad": 131
@@ -149,6 +144,11 @@
       {
         "código": "11322",
         "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"POPOTLÁN\"",
+        "cantidad": 131
+      },
+      {
+        "código": "13087",
+        "nombre": "COMPLEJO EDUCATIVO \"AMINTA DE MONTIEL\"",
         "cantidad": 131
       },
       {
@@ -197,11 +197,6 @@
         "cantidad": 118
       },
       {
-        "código": "10491",
-        "nombre": "COMPLEJO EDUCATIVO \"CAPITAN GENERAL GERARDO BARRIOS\"",
-        "cantidad": 118
-      },
-      {
         "código": "20817",
         "nombre": "COLEGIO ESPAÑOL PADRE ARRUPE",
         "cantidad": 118
@@ -209,6 +204,11 @@
       {
         "código": "12426",
         "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"MARÍA ISABEL MIRANDA\"",
+        "cantidad": 118
+      },
+      {
+        "código": "10491",
+        "nombre": "COMPLEJO EDUCATIVO \"CAPITAN GENERAL GERARDO BARRIOS\"",
         "cantidad": 118
       },
       {
@@ -222,13 +222,13 @@
         "cantidad": 116
       },
       {
-        "código": "10740",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"DOLORES DE BRITO\"",
+        "código": "11291",
+        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"PROFESORA NORMA BESSY CÁRCAMO DE GAMERO\"",
         "cantidad": 115
       },
       {
-        "código": "11291",
-        "nombre": "ESCUELA DE EDUCACIÓN PARVULARIA \"PROFESORA NORMA BESSY CÁRCAMO DE GAMERO\"",
+        "código": "10740",
+        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"DOLORES DE BRITO\"",
         "cantidad": 115
       },
       {
@@ -237,18 +237,18 @@
         "cantidad": 114
       },
       {
-        "código": "11011",
-        "nombre": "CENTRO ESCOLAR \"IGNACIO ELLACURIA\"",
-        "cantidad": 113
-      },
-      {
-        "código": "12504",
-        "nombre": "ESCUELA DE EDUCACION PARVULARIA \"FEDERICO EVERARDO NOLTENIUS\"",
+        "código": "13713",
+        "nombre": "CENTRO ESCOLAR \"URBANIZACION LAS MARGARITAS \"",
         "cantidad": 113
       },
       {
         "código": "11763",
         "nombre": "COMPLEJO EDUCATIVO  \"DOCTOR ORLANDO DE SOLA\"",
+        "cantidad": 113
+      },
+      {
+        "código": "11011",
+        "nombre": "CENTRO ESCOLAR \"IGNACIO ELLACURIA\"",
         "cantidad": 113
       }
     ],
@@ -256,15 +256,15 @@
       {
         "código": "50000",
         "nombre": "INSTITUTO CRECER JUNTOS ICJ",
-        "cantidad_desertores": 9479,
-        "cantidad_traslados": 15551,
+        "cantidad_desertores": 9481,
+        "cantidad_traslados": 15549,
         "cantidad_graduados": 0
       },
       {
         "código": "10399",
         "nombre": "CENTRO ESCOLAR \"INSA\"",
-        "cantidad_desertores": 273,
-        "cantidad_traslados": 190,
+        "cantidad_desertores": 271,
+        "cantidad_traslados": 192,
         "cantidad_graduados": 906
       },
       {
@@ -284,8 +284,8 @@
       {
         "código": "11540",
         "nombre": "INSTITUTO NACIONAL \"GENERAL FRANCISCO MENÉNDEZ \"",
-        "cantidad_desertores": 194,
-        "cantidad_traslados": 234,
+        "cantidad_desertores": 193,
+        "cantidad_traslados": 235,
         "cantidad_graduados": 690
       },
       {
@@ -359,18 +359,18 @@
         "cantidad_graduados": 19
       },
       {
+        "código": "11507",
+        "nombre": "COMPLEJO EDUCATIVO \"JORGE LARDE\"",
+        "cantidad_desertores": 129,
+        "cantidad_traslados": 225,
+        "cantidad_graduados": 102
+      },
+      {
         "código": "20208",
         "nombre": "ACADEMIA BRITÁNICA CUSCATLECA",
         "cantidad_desertores": 128,
         "cantidad_traslados": 10,
         "cantidad_graduados": 0
-      },
-      {
-        "código": "11507",
-        "nombre": "COMPLEJO EDUCATIVO \"JORGE LARDE\"",
-        "cantidad_desertores": 127,
-        "cantidad_traslados": 226,
-        "cantidad_graduados": 102
       },
       {
         "código": "10052",
@@ -401,18 +401,18 @@
         "cantidad_graduados": 519
       },
       {
-        "código": "72008",
-        "nombre": "CENTRO ESCOLAR CANTÓN SAN JUAN MIRAFLORES ABAJO",
-        "cantidad_desertores": 115,
-        "cantidad_traslados": 42,
-        "cantidad_graduados": 0
-      },
-      {
         "código": "10716",
         "nombre": "INSTITUTO NACIONAL \"THOMAS JEFFERSON \"",
         "cantidad_desertores": 115,
         "cantidad_traslados": 69,
         "cantidad_graduados": 258
+      },
+      {
+        "código": "72008",
+        "nombre": "CENTRO ESCOLAR CANTÓN SAN JUAN MIRAFLORES ABAJO",
+        "cantidad_desertores": 115,
+        "cantidad_traslados": 42,
+        "cantidad_graduados": 0
       },
       {
         "código": "11471",
@@ -429,13 +429,6 @@
         "cantidad_graduados": 11
       },
       {
-        "código": "12399",
-        "nombre": "INSTITUTO NACIONAL \"DOCTOR SARBELIO NAVARRETE\"",
-        "cantidad_desertores": 112,
-        "cantidad_traslados": 59,
-        "cantidad_graduados": 402
-      },
-      {
         "código": "10143",
         "nombre": "CENTRO ESCOLAR \"CASERIO MENDEZ\"",
         "cantidad_desertores": 112,
@@ -446,7 +439,7 @@
         "código": "11849",
         "nombre": "CENTRO ESCOLAR  \"CANTÓN EL PARAÍSO ARRIBA\"",
         "cantidad_desertores": 111,
-        "cantidad_traslados": 63,
+        "cantidad_traslados": 64,
         "cantidad_graduados": 0
       },
       {
@@ -457,17 +450,24 @@
         "cantidad_graduados": 46
       },
       {
+        "código": "12399",
+        "nombre": "INSTITUTO NACIONAL \"DOCTOR SARBELIO NAVARRETE\"",
+        "cantidad_desertores": 109,
+        "cantidad_traslados": 63,
+        "cantidad_graduados": 402
+      },
+      {
         "código": "12979",
         "nombre": "INSTITUTO NACIONAL ISIDRO MENÉNDEZ",
-        "cantidad_desertores": 107,
-        "cantidad_traslados": 115,
+        "cantidad_desertores": 108,
+        "cantidad_traslados": 114,
         "cantidad_graduados": 607
       },
       {
         "código": "11667",
         "nombre": "COMPLEJO EDUCATIVO \"JOAQUIN RODEZNO\"",
-        "cantidad_desertores": 106,
-        "cantidad_traslados": 100,
+        "cantidad_desertores": 107,
+        "cantidad_traslados": 99,
         "cantidad_graduados": 45
       },
       {
@@ -478,11 +478,11 @@
         "cantidad_graduados": 0
       },
       {
-        "código": "10169",
-        "nombre": "COMPLEJO EDUCATIVO \"JOSÉ MARTÍ\"",
+        "código": "10699",
+        "nombre": "COMPLEJO EDUCATIVO \"JUAN PABLO DUARTE\"",
         "cantidad_desertores": 104,
-        "cantidad_traslados": 46,
-        "cantidad_graduados": 93
+        "cantidad_traslados": 122,
+        "cantidad_graduados": 48
       },
       {
         "código": "20210",
@@ -492,11 +492,18 @@
         "cantidad_graduados": 0
       },
       {
-        "código": "10699",
-        "nombre": "COMPLEJO EDUCATIVO \"JUAN PABLO DUARTE\"",
+        "código": "10169",
+        "nombre": "COMPLEJO EDUCATIVO \"JOSÉ MARTÍ\"",
         "cantidad_desertores": 104,
-        "cantidad_traslados": 122,
-        "cantidad_graduados": 48
+        "cantidad_traslados": 46,
+        "cantidad_graduados": 93
+      },
+      {
+        "código": "11543",
+        "nombre": "INSTITUTO  NACIONAL TECNICO INDUSTRIAL",
+        "cantidad_desertores": 103,
+        "cantidad_traslados": 89,
+        "cantidad_graduados": 319
       },
       {
         "código": "64065",
@@ -504,13 +511,6 @@
         "cantidad_desertores": 102,
         "cantidad_traslados": 43,
         "cantidad_graduados": 0
-      },
-      {
-        "código": "11543",
-        "nombre": "INSTITUTO  NACIONAL TECNICO INDUSTRIAL",
-        "cantidad_desertores": 102,
-        "cantidad_traslados": 90,
-        "cantidad_graduados": 319
       },
       {
         "código": "11030",
@@ -529,8 +529,8 @@
       {
         "código": "11420",
         "nombre": "INSTITUTO NACIONAL \"MAESTRO ALBERTO MASFERRER \"",
-        "cantidad_desertores": 100,
-        "cantidad_traslados": 64,
+        "cantidad_desertores": 99,
+        "cantidad_traslados": 65,
         "cantidad_graduados": 322
       },
       {
@@ -541,18 +541,18 @@
         "cantidad_graduados": 328
       },
       {
-        "código": "12055",
-        "nombre": "COMPLEJO EDUCATIVO \"SOLEDAD MELARA DE ARGUETA\"",
-        "cantidad_desertores": 98,
-        "cantidad_traslados": 25,
-        "cantidad_graduados": 19
-      },
-      {
         "código": "10022",
         "nombre": "CENTRO ESCOLAR \"CANTÓN LOS MAGUEYES\"",
         "cantidad_desertores": 98,
         "cantidad_traslados": 127,
         "cantidad_graduados": 12
+      },
+      {
+        "código": "12055",
+        "nombre": "COMPLEJO EDUCATIVO \"SOLEDAD MELARA DE ARGUETA\"",
+        "cantidad_desertores": 98,
+        "cantidad_traslados": 25,
+        "cantidad_graduados": 19
       },
       {
         "código": "10013",
@@ -583,18 +583,18 @@
         "cantidad_graduados": 47
       },
       {
-        "código": "10095",
-        "nombre": "COMPLEJO EDUCATIVO \"ANTONIO J. ALFARO\"",
-        "cantidad_desertores": 95,
-        "cantidad_traslados": 131,
-        "cantidad_graduados": 131
-      },
-      {
         "código": "10732",
         "nombre": "CENTRO ESCOLAR \" SALVADOR DIAZ ROA \"",
         "cantidad_desertores": 95,
         "cantidad_traslados": 111,
         "cantidad_graduados": 36
+      },
+      {
+        "código": "10095",
+        "nombre": "COMPLEJO EDUCATIVO \"ANTONIO J. ALFARO\"",
+        "cantidad_desertores": 95,
+        "cantidad_traslados": 131,
+        "cantidad_graduados": 131
       },
       {
         "código": "84052",
