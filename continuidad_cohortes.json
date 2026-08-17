@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-08-12",
+  "fecha": "2026-08-13",
   "totales_nacionales": [
     {
       "grado_2025": "Cuarto Año Técnico",
@@ -68,7 +68,7 @@
       "grado_2025": "Inicial 3",
       "grado_2026": "Parvularia 4",
       "matricula_2025": 19812,
-      "continuidad": 9732,
+      "continuidad": 9733,
       "porcentaje_continuidad": 49.1,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -95,8 +95,8 @@
       "grado_2025": "Lactancia",
       "grado_2026": "Inicial 1",
       "matricula_2025": 2549,
-      "continuidad": 1222,
-      "porcentaje_continuidad": 47.9,
+      "continuidad": 1223,
+      "porcentaje_continuidad": 48.0,
       "fin_trayectoria": false,
       "modalidad": ""
     },
@@ -131,7 +131,7 @@
       "grado_2025": "Noveno Grado",
       "grado_2026": "Primer Año General, Primer Año Técnico",
       "matricula_2025": 83108,
-      "continuidad": 71220,
+      "continuidad": 71218,
       "porcentaje_continuidad": 85.7,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -140,7 +140,7 @@
       "grado_2025": "Octavo Grado",
       "grado_2026": "Noveno Grado",
       "matricula_2025": 88874,
-      "continuidad": 81236,
+      "continuidad": 81232,
       "porcentaje_continuidad": 91.4,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -149,7 +149,7 @@
       "grado_2025": "Parvularia 4",
       "grado_2026": "Parvularia 5",
       "matricula_2025": 41397,
-      "continuidad": 37241,
+      "continuidad": 37237,
       "porcentaje_continuidad": 90.0,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -167,7 +167,7 @@
       "grado_2025": "Parvularia 6",
       "grado_2026": "Primer Grado",
       "matricula_2025": 83181,
-      "continuidad": 80676,
+      "continuidad": 80673,
       "porcentaje_continuidad": 97.0,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -176,7 +176,7 @@
       "grado_2025": "Primer Año General",
       "grado_2026": "Segundo Año General",
       "matricula_2025": 54683,
-      "continuidad": 44539,
+      "continuidad": 44536,
       "porcentaje_continuidad": 81.4,
       "fin_trayectoria": false,
       "modalidad": "General"
@@ -185,7 +185,7 @@
       "grado_2025": "Primer Año Técnico",
       "grado_2026": "Segundo Año Técnico",
       "matricula_2025": 28320,
-      "continuidad": 22381,
+      "continuidad": 22379,
       "porcentaje_continuidad": 79.0,
       "fin_trayectoria": false,
       "modalidad": "Técnico"
@@ -194,7 +194,7 @@
       "grado_2025": "Primer Grado",
       "grado_2026": "Segundo Grado",
       "matricula_2025": 90895,
-      "continuidad": 87615,
+      "continuidad": 87613,
       "porcentaje_continuidad": 96.4,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -203,7 +203,7 @@
       "grado_2025": "Quinto Grado",
       "grado_2026": "Sexto Grado",
       "matricula_2025": 96525,
-      "continuidad": 91550,
+      "continuidad": 91548,
       "porcentaje_continuidad": 94.8,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -230,7 +230,7 @@
       "grado_2025": "Segundo Grado",
       "grado_2026": "Tercer Grado",
       "matricula_2025": 92917,
-      "continuidad": 89142,
+      "continuidad": 89139,
       "porcentaje_continuidad": 95.9,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -239,7 +239,7 @@
       "grado_2025": "Sexto Grado",
       "grado_2026": "Séptimo Grado",
       "matricula_2025": 94856,
-      "continuidad": 87873,
+      "continuidad": 87871,
       "porcentaje_continuidad": 92.6,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -248,7 +248,7 @@
       "grado_2025": "Séptimo Grado",
       "grado_2026": "Octavo Grado",
       "matricula_2025": 95695,
-      "continuidad": 85909,
+      "continuidad": 85901,
       "porcentaje_continuidad": 89.8,
       "fin_trayectoria": false,
       "modalidad": ""
@@ -266,7 +266,7 @@
       "grado_2025": "Tercer Grado",
       "grado_2026": "Cuarto Grado",
       "matricula_2025": 105761,
-      "continuidad": 101630,
+      "continuidad": 101625,
       "porcentaje_continuidad": 96.1,
       "fin_trayectoria": false,
       "modalidad": ""

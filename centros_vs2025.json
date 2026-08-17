@@ -1,10 +1,10 @@
 {
-  "2026-08-12": {
+  "2026-08-13": {
     "nuevos_por_centro": [
       {
         "código": "E0741",
         "nombre": "INSTITUTO NACIONAL DE MODALIDADES EDUCATIVAS ALTERNAS",
-        "cantidad": 324
+        "cantidad": 320
       },
       {
         "código": "11040",
@@ -19,7 +19,7 @@
       {
         "código": "13082",
         "nombre": "COMPLEJO EDUCATIVO \"OFELIA HERRERA\"",
-        "cantidad": 223
+        "cantidad": 222
       },
       {
         "código": "50001-004",
@@ -39,7 +39,7 @@
       {
         "código": "90047",
         "nombre": "CENTRO ESCOLAR \"TENIENTE NELSON RENE MEDINA\"",
-        "cantidad": 199
+        "cantidad": 197
       },
       {
         "código": "10739",
@@ -326,7 +326,7 @@
       {
         "código": "10491",
         "nombre": "COMPLEJO EDUCATIVO \"CAPITAN GENERAL GERARDO BARRIOS\"",
-        "cantidad_desertores": 148,
+        "cantidad_desertores": 147,
         "cantidad_traslados": 146,
         "cantidad_graduados": 125
       },
@@ -443,18 +443,18 @@
         "cantidad_graduados": 402
       },
       {
-        "código": "11089",
-        "nombre": "COMPLEJO EDUCATIVO \"EDUARDO GUIROLA\"",
-        "cantidad_desertores": 109,
-        "cantidad_traslados": 64,
-        "cantidad_graduados": 46
-      },
-      {
         "código": "11849",
         "nombre": "CENTRO ESCOLAR  \"CANTÓN EL PARAÍSO ARRIBA\"",
         "cantidad_desertores": 109,
         "cantidad_traslados": 67,
         "cantidad_graduados": 0
+      },
+      {
+        "código": "11089",
+        "nombre": "COMPLEJO EDUCATIVO \"EDUARDO GUIROLA\"",
+        "cantidad_desertores": 109,
+        "cantidad_traslados": 65,
+        "cantidad_graduados": 46
       },
       {
         "código": "12979",
@@ -485,6 +485,13 @@
         "cantidad_graduados": 0
       },
       {
+        "código": "20210",
+        "nombre": "LICEO FRANCÉS",
+        "cantidad_desertores": 104,
+        "cantidad_traslados": 31,
+        "cantidad_graduados": 0
+      },
+      {
         "código": "10169",
         "nombre": "COMPLEJO EDUCATIVO \"JOSÉ MARTÍ\"",
         "cantidad_desertores": 104,
@@ -492,11 +499,11 @@
         "cantidad_graduados": 93
       },
       {
-        "código": "20210",
-        "nombre": "LICEO FRANCÉS",
-        "cantidad_desertores": 104,
-        "cantidad_traslados": 31,
-        "cantidad_graduados": 0
+        "código": "11543",
+        "nombre": "INSTITUTO  NACIONAL TECNICO INDUSTRIAL",
+        "cantidad_desertores": 103,
+        "cantidad_traslados": 89,
+        "cantidad_graduados": 319
       },
       {
         "código": "64065",
@@ -506,25 +513,11 @@
         "cantidad_graduados": 0
       },
       {
-        "código": "11543",
-        "nombre": "INSTITUTO  NACIONAL TECNICO INDUSTRIAL",
-        "cantidad_desertores": 102,
-        "cantidad_traslados": 90,
-        "cantidad_graduados": 319
-      },
-      {
         "código": "10452",
         "nombre": "CENTRO ESCOLAR \"VALLE EL CARMEN  CANTÓN NATIVIDAD\"",
         "cantidad_desertores": 101,
         "cantidad_traslados": 57,
         "cantidad_graduados": 0
-      },
-      {
-        "código": "11030",
-        "nombre": "COMPLEJO EDUCATIVO   \"SOR CLARA QUIROZ\"",
-        "cantidad_desertores": 100,
-        "cantidad_traslados": 87,
-        "cantidad_graduados": 15
       },
       {
         "código": "10732",
@@ -541,11 +534,25 @@
         "cantidad_graduados": 322
       },
       {
+        "código": "11030",
+        "nombre": "COMPLEJO EDUCATIVO   \"SOR CLARA QUIROZ\"",
+        "cantidad_desertores": 100,
+        "cantidad_traslados": 87,
+        "cantidad_graduados": 15
+      },
+      {
         "código": "10022",
         "nombre": "CENTRO ESCOLAR \"CANTÓN LOS MAGUEYES\"",
         "cantidad_desertores": 99,
         "cantidad_traslados": 126,
         "cantidad_graduados": 12
+      },
+      {
+        "código": "11028",
+        "nombre": "INSTITUTO NACIONAL \"CANTÓN LOURDES\"",
+        "cantidad_desertores": 98,
+        "cantidad_traslados": 63,
+        "cantidad_graduados": 328
       },
       {
         "código": "10013",
@@ -562,25 +569,11 @@
         "cantidad_graduados": 19
       },
       {
-        "código": "11028",
-        "nombre": "INSTITUTO NACIONAL \"CANTÓN LOURDES\"",
-        "cantidad_desertores": 98,
-        "cantidad_traslados": 63,
-        "cantidad_graduados": 328
-      },
-      {
         "código": "84121",
         "nombre": "COMPLEJO EDUCATIVO  CASERÍO RANCHO QUEMADO, CANTÓN  CASA BLANCA",
         "cantidad_desertores": 97,
         "cantidad_traslados": 40,
         "cantidad_graduados": 40
-      },
-      {
-        "código": "10391",
-        "nombre": "COMPLEJO EDUCATIVO  \"COLONIA RIO ZARCO\"",
-        "cantidad_desertores": 96,
-        "cantidad_traslados": 105,
-        "cantidad_graduados": 47
       },
       {
         "código": "10139",
@@ -590,6 +583,13 @@
         "cantidad_graduados": 24
       },
       {
+        "código": "10391",
+        "nombre": "COMPLEJO EDUCATIVO  \"COLONIA RIO ZARCO\"",
+        "cantidad_desertores": 96,
+        "cantidad_traslados": 105,
+        "cantidad_graduados": 47
+      },
+      {
         "código": "11344",
         "nombre": "CENTRO ESCOLAR \"VICENTE ACOSTA\"",
         "cantidad_desertores": 95,
@@ -597,11 +597,11 @@
         "cantidad_graduados": 11
       },
       {
-        "código": "10095",
-        "nombre": "COMPLEJO EDUCATIVO \"ANTONIO J. ALFARO\"",
+        "código": "84052",
+        "nombre": "CENTRO ESCOLAR CASERÍO EL RETÉN, CANTÓN CIRIGUAL",
         "cantidad_desertores": 94,
-        "cantidad_traslados": 134,
-        "cantidad_graduados": 131
+        "cantidad_traslados": 13,
+        "cantidad_graduados": 0
       }
     ]
   }

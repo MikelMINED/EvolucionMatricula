@@ -1,25 +1,25 @@
 {
-  "fecha": "2026-08-12",
+  "fecha": "2026-08-13",
   "totales_nacionales": [
     {
       "grado": "Lactancia",
       "matricula_2025": 2549,
-      "matricula_2026": 2407,
-      "variacion": -142,
+      "matricula_2026": 2406,
+      "variacion": -143,
       "porcentaje": -5.6
     },
     {
       "grado": "Inicial 1",
       "matricula_2025": 9329,
-      "matricula_2026": 8820,
-      "variacion": -509,
-      "porcentaje": -5.5
+      "matricula_2026": 8821,
+      "variacion": -508,
+      "porcentaje": -5.4
     },
     {
       "grado": "Inicial 2",
       "matricula_2025": 15918,
-      "matricula_2026": 14829,
-      "variacion": -1089,
+      "matricula_2026": 14831,
+      "variacion": -1087,
       "porcentaje": -6.8
     },
     {
@@ -32,99 +32,99 @@
     {
       "grado": "Parvularia 4",
       "matricula_2025": 41397,
-      "matricula_2026": 44450,
-      "variacion": 3053,
+      "matricula_2026": 44445,
+      "variacion": 3048,
       "porcentaje": 7.4
     },
     {
       "grado": "Parvularia 5",
       "matricula_2025": 69490,
-      "matricula_2026": 66720,
-      "variacion": -2770,
+      "matricula_2026": 66717,
+      "variacion": -2773,
       "porcentaje": -4.0
     },
     {
       "grado": "Parvularia 6",
       "matricula_2025": 83181,
-      "matricula_2026": 80048,
-      "variacion": -3133,
+      "matricula_2026": 80047,
+      "variacion": -3134,
       "porcentaje": -3.8
     },
     {
       "grado": "Primer Grado",
       "matricula_2025": 90895,
-      "matricula_2026": 88197,
-      "variacion": -2698,
+      "matricula_2026": 88193,
+      "variacion": -2702,
       "porcentaje": -3.0
     },
     {
       "grado": "Segundo Grado",
       "matricula_2025": 92917,
-      "matricula_2026": 91617,
-      "variacion": -1300,
+      "matricula_2026": 91614,
+      "variacion": -1303,
       "porcentaje": -1.4
     },
     {
       "grado": "Tercer Grado",
       "matricula_2025": 105761,
-      "matricula_2026": 93242,
-      "variacion": -12519,
+      "matricula_2026": 93236,
+      "variacion": -12525,
       "porcentaje": -11.8
     },
     {
       "grado": "Cuarto Grado",
       "matricula_2025": 101809,
-      "matricula_2026": 106709,
-      "variacion": 4900,
+      "matricula_2026": 106702,
+      "variacion": 4893,
       "porcentaje": 4.8
     },
     {
       "grado": "Quinto Grado",
       "matricula_2025": 96525,
-      "matricula_2026": 100343,
-      "variacion": 3818,
+      "matricula_2026": 100344,
+      "variacion": 3819,
       "porcentaje": 4.0
     },
     {
       "grado": "Sexto Grado",
       "matricula_2025": 94856,
-      "matricula_2026": 96253,
-      "variacion": 1397,
+      "matricula_2026": 96245,
+      "variacion": 1389,
       "porcentaje": 1.5
     },
     {
       "grado": "Séptimo Grado",
       "matricula_2025": 95695,
-      "matricula_2026": 95633,
-      "variacion": -62,
+      "matricula_2026": 95631,
+      "variacion": -64,
       "porcentaje": -0.1
     },
     {
       "grado": "Octavo Grado",
       "matricula_2025": 88874,
-      "matricula_2026": 90565,
-      "variacion": 1691,
+      "matricula_2026": 90551,
+      "variacion": 1677,
       "porcentaje": 1.9
     },
     {
       "grado": "Noveno Grado",
       "matricula_2025": 83108,
-      "matricula_2026": 83995,
-      "variacion": 887,
+      "matricula_2026": 83991,
+      "variacion": 883,
       "porcentaje": 1.1
     },
     {
       "grado": "Primer Año",
       "matricula_2025": 83003,
-      "matricula_2026": 82297,
-      "variacion": -706,
+      "matricula_2026": 82283,
+      "variacion": -720,
       "porcentaje": -0.9
     },
     {
       "grado": "Segundo Año",
       "matricula_2025": 71022,
-      "matricula_2026": 73240,
-      "variacion": 2218,
+      "matricula_2026": 73235,
+      "variacion": 2213,
       "porcentaje": 3.1
     },
     {
@@ -878,15 +878,15 @@
         },
         "Sexto Grado": {
           "matricula_2025": 24,
-          "matricula_2026": 27,
-          "variacion": 3,
-          "porcentaje": 12.5
+          "matricula_2026": 24,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Séptimo Grado": {
           "matricula_2025": 19,
-          "matricula_2026": 19,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 22,
+          "variacion": 3,
+          "porcentaje": 15.8
         },
         "Tercer Grado": {
           "matricula_2025": 49,
@@ -4554,9 +4554,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 46,
-          "matricula_2026": 43,
-          "variacion": -3,
-          "porcentaje": -6.5
+          "matricula_2026": 40,
+          "variacion": -6,
+          "porcentaje": -13.0
         },
         "Parvularia 4": {
           "matricula_2025": 7,
@@ -4944,9 +4944,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 121,
-          "matricula_2026": 124,
-          "variacion": 3,
-          "porcentaje": 2.5
+          "matricula_2026": 125,
+          "variacion": 4,
+          "porcentaje": 3.3
         },
         "Tercer Grado": {
           "matricula_2025": 114,
@@ -7389,15 +7389,15 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 39,
-          "matricula_2026": 47,
-          "variacion": 8,
-          "porcentaje": 20.5
+          "matricula_2026": 45,
+          "variacion": 6,
+          "porcentaje": 15.4
         },
         "Noveno Grado": {
           "matricula_2025": 26,
-          "matricula_2026": 31,
-          "variacion": 5,
-          "porcentaje": 19.2
+          "matricula_2026": 30,
+          "variacion": 4,
+          "porcentaje": 15.4
         },
         "Octavo Grado": {
           "matricula_2025": 33,
@@ -9383,9 +9383,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 19,
-          "matricula_2026": 18,
-          "variacion": -1,
-          "porcentaje": -5.3
+          "matricula_2026": 17,
+          "variacion": -2,
+          "porcentaje": -10.5
         },
         "Octavo Grado": {
           "matricula_2025": 20,
@@ -10443,9 +10443,9 @@
         },
         "Quinto Grado": {
           "matricula_2025": 47,
-          "matricula_2026": 50,
-          "variacion": 3,
-          "porcentaje": 6.4
+          "matricula_2026": 49,
+          "variacion": 2,
+          "porcentaje": 4.3
         },
         "Segundo Grado": {
           "matricula_2025": 31,
@@ -14918,9 +14918,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 51,
-          "matricula_2026": 73,
-          "variacion": 22,
-          "porcentaje": 43.1
+          "matricula_2026": 72,
+          "variacion": 21,
+          "porcentaje": 41.2
         },
         "Noveno Grado": {
           "matricula_2025": 78,
@@ -15079,9 +15079,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 44,
-          "matricula_2026": 30,
-          "variacion": -14,
-          "porcentaje": -31.8
+          "matricula_2026": 29,
+          "variacion": -15,
+          "porcentaje": -34.1
         },
         "Tercer Grado": {
           "matricula_2025": 44,
@@ -17166,9 +17166,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 71,
-          "matricula_2026": 81,
-          "variacion": 10,
-          "porcentaje": 14.1
+          "matricula_2026": 80,
+          "variacion": 9,
+          "porcentaje": 12.7
         },
         "Parvularia 4": {
           "matricula_2025": 11,
@@ -18225,9 +18225,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 122,
-          "matricula_2026": 141,
-          "variacion": 19,
-          "porcentaje": 15.6
+          "matricula_2026": 140,
+          "variacion": 18,
+          "porcentaje": 14.8
         },
         "Octavo Grado": {
           "matricula_2025": 159,
@@ -20040,9 +20040,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 3,
-          "matricula_2026": 4,
-          "variacion": 1,
-          "porcentaje": 33.3
+          "matricula_2026": 5,
+          "variacion": 2,
+          "porcentaje": 66.7
         },
         "Tercer Grado": {
           "matricula_2025": 5,
@@ -22434,9 +22434,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 17,
-          "matricula_2026": 14,
-          "variacion": -3,
-          "porcentaje": -17.6
+          "matricula_2026": 13,
+          "variacion": -4,
+          "porcentaje": -23.5
         }
       }
     },
@@ -23432,9 +23432,9 @@
         },
         "Parvularia 4": {
           "matricula_2025": 6,
-          "matricula_2026": 17,
-          "variacion": 11,
-          "porcentaje": 183.3
+          "matricula_2026": 16,
+          "variacion": 10,
+          "porcentaje": 166.7
         },
         "Parvularia 5": {
           "matricula_2025": 21,
@@ -23444,15 +23444,15 @@
         },
         "Parvularia 6": {
           "matricula_2025": 22,
-          "matricula_2026": 34,
-          "variacion": 12,
-          "porcentaje": 54.5
+          "matricula_2026": 32,
+          "variacion": 10,
+          "porcentaje": 45.5
         },
         "Primer Grado": {
           "matricula_2025": 38,
-          "matricula_2026": 35,
-          "variacion": -3,
-          "porcentaje": -7.9
+          "matricula_2026": 34,
+          "variacion": -4,
+          "porcentaje": -10.5
         },
         "Quinto Grado": {
           "matricula_2025": 34,
@@ -25259,9 +25259,9 @@
         },
         "Inicial 3": {
           "matricula_2025": 10,
-          "matricula_2026": 17,
-          "variacion": 7,
-          "porcentaje": 70.0
+          "matricula_2026": 16,
+          "variacion": 6,
+          "porcentaje": 60.0
         },
         "Noveno Grado": {
           "matricula_2025": 34,
@@ -25289,9 +25289,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 19,
-          "matricula_2026": 29,
-          "variacion": 10,
-          "porcentaje": 52.6
+          "matricula_2026": 28,
+          "variacion": 9,
+          "porcentaje": 47.4
         },
         "Primer Año": {
           "matricula_2025": 23,
@@ -30152,9 +30152,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 52,
-          "matricula_2026": 34,
-          "variacion": -18,
-          "porcentaje": -34.6
+          "matricula_2026": 35,
+          "variacion": -17,
+          "porcentaje": -32.7
         },
         "Séptimo Grado": {
           "matricula_2025": 50,
@@ -30936,9 +30936,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 140,
-          "matricula_2026": 134,
-          "variacion": -6,
-          "porcentaje": -4.3
+          "matricula_2026": 135,
+          "variacion": -5,
+          "porcentaje": -3.6
         },
         "Octavo Grado": {
           "matricula_2025": 156,
@@ -40293,9 +40293,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 138,
-          "matricula_2026": 138,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 139,
+          "variacion": 1,
+          "porcentaje": 0.7
         },
         "Inicial 1": {
           "matricula_2025": 17,
@@ -42176,9 +42176,9 @@
         },
         "Primer Año": {
           "matricula_2025": 50,
-          "matricula_2026": 67,
-          "variacion": 17,
-          "porcentaje": 34.0
+          "matricula_2026": 66,
+          "variacion": 16,
+          "porcentaje": 32.0
         },
         "Primer Grado": {
           "matricula_2025": 53,
@@ -44497,9 +44497,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 77,
-          "matricula_2026": 66,
-          "variacion": -11,
-          "porcentaje": -14.3
+          "matricula_2026": 65,
+          "variacion": -12,
+          "porcentaje": -15.6
         },
         "Séptimo Grado": {
           "matricula_2025": 74,
@@ -44917,9 +44917,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 57,
-          "matricula_2026": 40,
-          "variacion": -17,
-          "porcentaje": -29.8
+          "matricula_2026": 39,
+          "variacion": -18,
+          "porcentaje": -31.6
         },
         "Inicial 1": {
           "matricula_2025": 20,
@@ -45348,9 +45348,9 @@
         },
         "Parvularia 4": {
           "matricula_2025": 9,
-          "matricula_2026": 29,
-          "variacion": 20,
-          "porcentaje": 222.2
+          "matricula_2026": 28,
+          "variacion": 19,
+          "porcentaje": 211.1
         },
         "Parvularia 5": {
           "matricula_2025": 39,
@@ -45774,9 +45774,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 49,
-          "matricula_2026": 39,
-          "variacion": -10,
-          "porcentaje": -20.4
+          "matricula_2026": 40,
+          "variacion": -9,
+          "porcentaje": -18.4
         },
         "Inicial 1": {
           "matricula_2025": 23,
@@ -46329,9 +46329,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 8,
-          "matricula_2026": 4,
-          "variacion": -4,
-          "porcentaje": -50.0
+          "matricula_2026": 5,
+          "variacion": -3,
+          "porcentaje": -37.5
         },
         "Sexto Grado": {
           "matricula_2025": 8,
@@ -55871,9 +55871,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 10,
-          "matricula_2026": 16,
-          "variacion": 6,
-          "porcentaje": 60.0
+          "matricula_2026": 17,
+          "variacion": 7,
+          "porcentaje": 70.0
         },
         "Tercer Grado": {
           "matricula_2025": 13,
@@ -56350,9 +56350,9 @@
         },
         "Inicial 2": {
           "matricula_2025": 23,
-          "matricula_2026": 12,
-          "variacion": -11,
-          "porcentaje": -47.8
+          "matricula_2026": 14,
+          "variacion": -9,
+          "porcentaje": -39.1
         },
         "Inicial 3": {
           "matricula_2025": 18,
@@ -56910,9 +56910,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 28,
-          "matricula_2026": 26,
-          "variacion": -2,
-          "porcentaje": -7.1
+          "matricula_2026": 25,
+          "variacion": -3,
+          "porcentaje": -10.7
         },
         "Inicial 3": {
           "matricula_2025": 11,
@@ -57106,9 +57106,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 1,
-          "matricula_2026": 7,
-          "variacion": 6,
-          "porcentaje": 600.0
+          "matricula_2026": 6,
+          "variacion": 5,
+          "porcentaje": 500.0
         },
         "Sexto Grado": {
           "matricula_2025": 1,
@@ -59576,9 +59576,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 88,
-          "matricula_2026": 72,
-          "variacion": -16,
-          "porcentaje": -18.2
+          "matricula_2026": 71,
+          "variacion": -17,
+          "porcentaje": -19.3
         },
         "Octavo Grado": {
           "matricula_2025": 80,
@@ -59795,9 +59795,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 59,
-          "matricula_2026": 55,
-          "variacion": -4,
-          "porcentaje": -6.8
+          "matricula_2026": 56,
+          "variacion": -3,
+          "porcentaje": -5.1
         }
       }
     },
@@ -60298,9 +60298,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 48,
-          "matricula_2026": 44,
-          "variacion": -4,
-          "porcentaje": -8.3
+          "matricula_2026": 45,
+          "variacion": -3,
+          "porcentaje": -6.2
         },
         "Tercer Año": {
           "matricula_2025": 20,
@@ -60493,9 +60493,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 47,
-          "matricula_2026": 85,
-          "variacion": 38,
-          "porcentaje": 80.9
+          "matricula_2026": 83,
+          "variacion": 36,
+          "porcentaje": 76.6
         },
         "Octavo Grado": {
           "matricula_2025": 91,
@@ -60789,9 +60789,9 @@
         },
         "Primer Año": {
           "matricula_2025": 37,
-          "matricula_2026": 42,
-          "variacion": 5,
-          "porcentaje": 13.5
+          "matricula_2026": 43,
+          "variacion": 6,
+          "porcentaje": 16.2
         },
         "Primer Grado": {
           "matricula_2025": 65,
@@ -61587,9 +61587,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 92,
-          "matricula_2026": 107,
-          "variacion": 15,
-          "porcentaje": 16.3
+          "matricula_2026": 106,
+          "variacion": 14,
+          "porcentaje": 15.2
         }
       }
     },
@@ -64046,9 +64046,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 75,
-          "matricula_2026": 56,
-          "variacion": -19,
-          "porcentaje": -25.3
+          "matricula_2026": 57,
+          "variacion": -18,
+          "porcentaje": -24.0
         },
         "Inicial 1": {
           "matricula_2025": 21,
@@ -64112,9 +64112,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 67,
-          "matricula_2026": 44,
-          "variacion": -23,
-          "porcentaje": -34.3
+          "matricula_2026": 43,
+          "variacion": -24,
+          "porcentaje": -35.8
         },
         "Quinto Grado": {
           "matricula_2025": 59,
@@ -64565,9 +64565,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 25,
-          "matricula_2026": 40,
-          "variacion": 15,
-          "porcentaje": 60.0
+          "matricula_2026": 39,
+          "variacion": 14,
+          "porcentaje": 56.0
         },
         "Noveno Grado": {
           "matricula_2025": 10,
@@ -64643,9 +64643,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 39,
-          "matricula_2026": 26,
-          "variacion": -13,
-          "porcentaje": -33.3
+          "matricula_2026": 24,
+          "variacion": -15,
+          "porcentaje": -38.5
         }
       }
     },
@@ -68993,9 +68993,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 104,
-          "matricula_2026": 90,
-          "variacion": -14,
-          "porcentaje": -13.5
+          "matricula_2026": 89,
+          "variacion": -15,
+          "porcentaje": -14.4
         },
         "Quinto Grado": {
           "matricula_2025": 116,
@@ -69372,9 +69372,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 108,
-          "matricula_2026": 96,
-          "variacion": -12,
-          "porcentaje": -11.1
+          "matricula_2026": 98,
+          "variacion": -10,
+          "porcentaje": -9.3
         },
         "Quinto Grado": {
           "matricula_2025": 104,
@@ -70263,9 +70263,9 @@
         },
         "Segundo Año": {
           "matricula_2025": 156,
-          "matricula_2026": 192,
-          "variacion": 36,
-          "porcentaje": 23.1
+          "matricula_2026": 193,
+          "variacion": 37,
+          "porcentaje": 23.7
         },
         "Segundo Grado": {
           "matricula_2025": 43,
@@ -75418,9 +75418,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 22,
-          "matricula_2026": 23,
-          "variacion": 1,
-          "porcentaje": 4.5
+          "matricula_2026": 24,
+          "variacion": 2,
+          "porcentaje": 9.1
         }
       }
     },
@@ -76579,9 +76579,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 95,
-          "matricula_2026": 101,
-          "variacion": 6,
-          "porcentaje": 6.3
+          "matricula_2026": 102,
+          "variacion": 7,
+          "porcentaje": 7.4
         },
         "Octavo Grado": {
           "matricula_2025": 115,
@@ -76791,9 +76791,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 127,
-          "matricula_2026": 119,
-          "variacion": -8,
-          "porcentaje": -6.3
+          "matricula_2026": 120,
+          "variacion": -7,
+          "porcentaje": -5.5
         },
         "Octavo Grado": {
           "matricula_2025": 119,
@@ -77662,9 +77662,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 37,
-          "matricula_2026": 55,
-          "variacion": 18,
-          "porcentaje": 48.6
+          "matricula_2026": 56,
+          "variacion": 19,
+          "porcentaje": 51.4
         },
         "Séptimo Grado": {
           "matricula_2025": 25,
@@ -79679,9 +79679,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 110,
-          "matricula_2026": 89,
-          "variacion": -21,
-          "porcentaje": -19.1
+          "matricula_2026": 88,
+          "variacion": -22,
+          "porcentaje": -20.0
         }
       }
     },
@@ -80538,9 +80538,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 25,
-          "matricula_2026": 39,
-          "variacion": 14,
-          "porcentaje": 56.0
+          "matricula_2026": 38,
+          "variacion": 13,
+          "porcentaje": 52.0
         },
         "Séptimo Grado": {
           "matricula_2025": 31,
@@ -80815,9 +80815,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 36,
-          "matricula_2026": 61,
-          "variacion": 25,
-          "porcentaje": 69.4
+          "matricula_2026": 60,
+          "variacion": 24,
+          "porcentaje": 66.7
         },
         "Octavo Grado": {
           "matricula_2025": 62,
@@ -83281,9 +83281,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 62,
-          "matricula_2026": 72,
-          "variacion": 10,
-          "porcentaje": 16.1
+          "matricula_2026": 71,
+          "variacion": 9,
+          "porcentaje": 14.5
         },
         "Sexto Grado": {
           "matricula_2025": 69,
@@ -84321,9 +84321,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 32,
-          "matricula_2026": 53,
-          "variacion": 21,
-          "porcentaje": 65.6
+          "matricula_2026": 52,
+          "variacion": 20,
+          "porcentaje": 62.5
         },
         "Quinto Grado": {
           "matricula_2025": 39,
@@ -85613,9 +85613,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 142,
-          "matricula_2026": 126,
-          "variacion": -16,
-          "porcentaje": -11.3
+          "matricula_2026": 125,
+          "variacion": -17,
+          "porcentaje": -12.0
         },
         "Tercer Grado": {
           "matricula_2025": 124,
@@ -92423,9 +92423,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 27,
-          "matricula_2026": 36,
-          "variacion": 9,
-          "porcentaje": 33.3
+          "matricula_2026": 35,
+          "variacion": 8,
+          "porcentaje": 29.6
         },
         "Parvularia 5": {
           "matricula_2025": 15,
@@ -92559,9 +92559,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 28,
-          "matricula_2026": 24,
-          "variacion": -4,
-          "porcentaje": -14.3
+          "matricula_2026": 23,
+          "variacion": -5,
+          "porcentaje": -17.9
         },
         "Noveno Grado": {
           "matricula_2025": 17,
@@ -92595,9 +92595,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 35,
-          "matricula_2026": 20,
-          "variacion": -15,
-          "porcentaje": -42.9
+          "matricula_2026": 19,
+          "variacion": -16,
+          "porcentaje": -45.7
         },
         "Quinto Grado": {
           "matricula_2025": 29,
@@ -93829,15 +93829,15 @@
         },
         "Primer Año": {
           "matricula_2025": 181,
-          "matricula_2026": 360,
-          "variacion": 179,
-          "porcentaje": 98.9
+          "matricula_2026": 354,
+          "variacion": 173,
+          "porcentaje": 95.6
         },
         "Segundo Año": {
           "matricula_2025": 150,
-          "matricula_2026": 186,
-          "variacion": 36,
-          "porcentaje": 24.0
+          "matricula_2026": 182,
+          "variacion": 32,
+          "porcentaje": 21.3
         },
         "Séptimo Grado": {
           "matricula_2025": 44,
@@ -98329,9 +98329,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 27,
-          "matricula_2026": 29,
-          "variacion": 2,
-          "porcentaje": 7.4
+          "matricula_2026": 30,
+          "variacion": 3,
+          "porcentaje": 11.1
         },
         "Primer Año": {
           "matricula_2025": 79,
@@ -98570,9 +98570,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 45,
-          "matricula_2026": 22,
-          "variacion": -23,
-          "porcentaje": -51.1
+          "matricula_2026": 23,
+          "variacion": -22,
+          "porcentaje": -48.9
         },
         "Octavo Grado": {
           "matricula_2025": 35,
@@ -98636,9 +98636,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 43,
-          "matricula_2026": 36,
-          "variacion": -7,
-          "porcentaje": -16.3
+          "matricula_2026": 35,
+          "variacion": -8,
+          "porcentaje": -18.6
         },
         "Tercer Grado": {
           "matricula_2025": 20,
@@ -100440,9 +100440,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 18,
-          "matricula_2026": 21,
-          "variacion": 3,
-          "porcentaje": 16.7
+          "matricula_2026": 20,
+          "variacion": 2,
+          "porcentaje": 11.1
         },
         "Noveno Grado": {
           "matricula_2025": 16,
@@ -102317,9 +102317,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 27,
-          "matricula_2026": 31,
-          "variacion": 4,
-          "porcentaje": 14.8
+          "matricula_2026": 30,
+          "variacion": 3,
+          "porcentaje": 11.1
         },
         "Octavo Grado": {
           "matricula_2025": 35,
@@ -104174,9 +104174,9 @@
       "grados": {
         "Primer Año": {
           "matricula_2025": 597,
-          "matricula_2026": 568,
-          "variacion": -29,
-          "porcentaje": -4.9
+          "matricula_2026": 567,
+          "variacion": -30,
+          "porcentaje": -5.0
         },
         "Segundo Año": {
           "matricula_2025": 433,
@@ -105534,9 +105534,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 143,
-          "matricula_2026": 149,
-          "variacion": 6,
-          "porcentaje": 4.2
+          "matricula_2026": 150,
+          "variacion": 7,
+          "porcentaje": 4.9
         },
         "Noveno Grado": {
           "matricula_2025": 108,
@@ -105546,9 +105546,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 105,
-          "matricula_2026": 121,
-          "variacion": 16,
-          "porcentaje": 15.2
+          "matricula_2026": 122,
+          "variacion": 17,
+          "porcentaje": 16.2
         },
         "Primer Grado": {
           "matricula_2025": 140,
@@ -106641,9 +106641,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 12,
-          "matricula_2026": 27,
-          "variacion": 15,
-          "porcentaje": 125.0
+          "matricula_2026": 28,
+          "variacion": 16,
+          "porcentaje": 133.3
         },
         "Noveno Grado": {
           "matricula_2025": 8,
@@ -109450,9 +109450,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 9,
-          "matricula_2026": 14,
-          "variacion": 5,
-          "porcentaje": 55.6
+          "matricula_2026": 13,
+          "variacion": 4,
+          "porcentaje": 44.4
         },
         "Noveno Grado": {
           "matricula_2025": 6,
@@ -109462,9 +109462,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 8,
-          "matricula_2026": 9,
-          "variacion": 1,
-          "porcentaje": 12.5
+          "matricula_2026": 8,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Parvularia 4": {
           "matricula_2025": 3,
@@ -109480,9 +109480,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 3,
-          "matricula_2026": 7,
-          "variacion": 4,
-          "porcentaje": 133.3
+          "matricula_2026": 6,
+          "variacion": 3,
+          "porcentaje": 100.0
         },
         "Primer Grado": {
           "matricula_2025": 7,
@@ -109498,9 +109498,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 5,
-          "matricula_2026": 8,
-          "variacion": 3,
-          "porcentaje": 60.0
+          "matricula_2026": 7,
+          "variacion": 2,
+          "porcentaje": 40.0
         },
         "Sexto Grado": {
           "matricula_2025": 7,
@@ -109510,15 +109510,15 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 12,
-          "matricula_2026": 14,
-          "variacion": 2,
-          "porcentaje": 16.7
+          "matricula_2026": 13,
+          "variacion": 1,
+          "porcentaje": 8.3
         },
         "Tercer Grado": {
           "matricula_2025": 9,
-          "matricula_2026": 4,
-          "variacion": -5,
-          "porcentaje": -55.6
+          "matricula_2026": 3,
+          "variacion": -6,
+          "porcentaje": -66.7
         }
       }
     },
@@ -123333,9 +123333,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 10,
-          "matricula_2026": 10,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 11,
+          "variacion": 1,
+          "porcentaje": 10.0
         }
       }
     },
@@ -124284,9 +124284,9 @@
         },
         "Parvularia 5": {
           "matricula_2025": 5,
-          "matricula_2026": 10,
-          "variacion": 5,
-          "porcentaje": 100.0
+          "matricula_2026": 11,
+          "variacion": 6,
+          "porcentaje": 120.0
         },
         "Parvularia 6": {
           "matricula_2025": 10,
@@ -124788,9 +124788,9 @@
         },
         "Segundo Año": {
           "matricula_2025": 142,
-          "matricula_2026": 123,
-          "variacion": -19,
-          "porcentaje": -13.4
+          "matricula_2026": 122,
+          "variacion": -20,
+          "porcentaje": -14.1
         },
         "Segundo Grado": {
           "matricula_2025": 44,
@@ -125723,9 +125723,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 114,
-          "matricula_2026": 95,
-          "variacion": -19,
-          "porcentaje": -16.7
+          "matricula_2026": 96,
+          "variacion": -18,
+          "porcentaje": -15.8
         },
         "Octavo Grado": {
           "matricula_2025": 96,
@@ -129455,9 +129455,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 8,
-          "matricula_2026": 9,
-          "variacion": 1,
-          "porcentaje": 12.5
+          "matricula_2026": 10,
+          "variacion": 2,
+          "porcentaje": 25.0
         }
       }
     },
@@ -132299,9 +132299,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 32,
-          "matricula_2026": 26,
-          "variacion": -6,
-          "porcentaje": -18.8
+          "matricula_2026": 25,
+          "variacion": -7,
+          "porcentaje": -21.9
         },
         "Parvularia 4": {
           "matricula_2025": 6,
@@ -135404,9 +135404,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 23,
-          "matricula_2026": 31,
-          "variacion": 8,
-          "porcentaje": 34.8
+          "matricula_2026": 30,
+          "variacion": 7,
+          "porcentaje": 30.4
         },
         "Tercer Grado": {
           "matricula_2025": 21,
@@ -136075,9 +136075,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 42,
-          "matricula_2026": 37,
-          "variacion": -5,
-          "porcentaje": -11.9
+          "matricula_2026": 36,
+          "variacion": -6,
+          "porcentaje": -14.3
         }
       }
     },
@@ -142995,9 +142995,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 50,
-          "matricula_2026": 51,
-          "variacion": 1,
-          "porcentaje": 2.0
+          "matricula_2026": 50,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Tercer Grado": {
           "matricula_2025": 34,
@@ -146971,9 +146971,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 138,
-          "matricula_2026": 103,
-          "variacion": -35,
-          "porcentaje": -25.4
+          "matricula_2026": 100,
+          "variacion": -38,
+          "porcentaje": -27.5
         },
         "Parvularia 4": {
           "matricula_2025": 36,
@@ -147747,9 +147747,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 35,
-          "matricula_2026": 36,
-          "variacion": 1,
-          "porcentaje": 2.9
+          "matricula_2026": 35,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Parvularia 4": {
           "matricula_2025": 2,
@@ -156811,9 +156811,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 51,
-          "matricula_2026": 57,
-          "variacion": 6,
-          "porcentaje": 11.8
+          "matricula_2026": 58,
+          "variacion": 7,
+          "porcentaje": 13.7
         },
         "Primer Año": {
           "matricula_2025": 73,
@@ -157037,9 +157037,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 103,
-          "matricula_2026": 138,
-          "variacion": 35,
-          "porcentaje": 34.0
+          "matricula_2026": 137,
+          "variacion": 34,
+          "porcentaje": 33.0
         },
         "Tercer Año": {
           "matricula_2025": 7,
@@ -162873,9 +162873,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 8,
-          "matricula_2026": 6,
-          "variacion": -2,
-          "porcentaje": -25.0
+          "matricula_2026": 5,
+          "variacion": -3,
+          "porcentaje": -37.5
         }
       }
     },
@@ -163334,9 +163334,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 2,
-          "matricula_2026": 4,
-          "variacion": 2,
-          "porcentaje": 100.0
+          "matricula_2026": 3,
+          "variacion": 1,
+          "porcentaje": 50.0
         },
         "Primer Grado": {
           "matricula_2025": 7,
@@ -163453,9 +163453,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 24,
-          "matricula_2026": 33,
-          "variacion": 9,
-          "porcentaje": 37.5
+          "matricula_2026": 34,
+          "variacion": 10,
+          "porcentaje": 41.7
         }
       }
     },
@@ -167760,9 +167760,9 @@
         },
         "Quinto Grado": {
           "matricula_2025": 39,
-          "matricula_2026": 41,
-          "variacion": 2,
-          "porcentaje": 5.1
+          "matricula_2026": 42,
+          "variacion": 3,
+          "porcentaje": 7.7
         },
         "Segundo Grado": {
           "matricula_2025": 34,
@@ -168293,9 +168293,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 21,
-          "matricula_2026": 30,
-          "variacion": 9,
-          "porcentaje": 42.9
+          "matricula_2026": 29,
+          "variacion": 8,
+          "porcentaje": 38.1
         },
         "Parvularia 4": {
           "matricula_2025": 4,
@@ -169090,9 +169090,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 90,
-          "matricula_2026": 66,
-          "variacion": -24,
-          "porcentaje": -26.7
+          "matricula_2026": 65,
+          "variacion": -25,
+          "porcentaje": -27.8
         }
       }
     },
@@ -169989,9 +169989,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 4,
-          "matricula_2026": 6,
-          "variacion": 2,
-          "porcentaje": 50.0
+          "matricula_2026": 5,
+          "variacion": 1,
+          "porcentaje": 25.0
         },
         "Laboral Inicial Año 1": {
           "matricula_2025": 3,
@@ -174135,9 +174135,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 185,
-          "matricula_2026": 191,
-          "variacion": 6,
-          "porcentaje": 3.2
+          "matricula_2026": 190,
+          "variacion": 5,
+          "porcentaje": 2.7
         },
         "Inicial 3": {
           "matricula_2025": 23,
@@ -174177,15 +174177,15 @@
         },
         "Parvularia 4": {
           "matricula_2025": 68,
-          "matricula_2026": 90,
-          "variacion": 22,
-          "porcentaje": 32.4
+          "matricula_2026": 88,
+          "variacion": 20,
+          "porcentaje": 29.4
         },
         "Parvularia 5": {
           "matricula_2025": 106,
-          "matricula_2026": 98,
-          "variacion": -8,
-          "porcentaje": -7.5
+          "matricula_2026": 100,
+          "variacion": -6,
+          "porcentaje": -5.7
         },
         "Parvularia 6": {
           "matricula_2025": 108,
@@ -174225,9 +174225,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 160,
-          "matricula_2026": 177,
-          "variacion": 17,
-          "porcentaje": 10.6
+          "matricula_2026": 174,
+          "variacion": 14,
+          "porcentaje": 8.8
         },
         "Séptimo Grado": {
           "matricula_2025": 206,
@@ -184347,9 +184347,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 6,
-          "matricula_2026": 8,
-          "variacion": 2,
-          "porcentaje": 33.3
+          "matricula_2026": 7,
+          "variacion": 1,
+          "porcentaje": 16.7
         },
         "Octavo Grado": {
           "matricula_2025": 8,
@@ -184401,9 +184401,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 9,
-          "matricula_2026": 8,
-          "variacion": -1,
-          "porcentaje": -11.1
+          "matricula_2026": 7,
+          "variacion": -2,
+          "porcentaje": -22.2
         },
         "Tercer Grado": {
           "matricula_2025": 7,
@@ -185707,9 +185707,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 10,
-          "matricula_2026": 7,
-          "variacion": -3,
-          "porcentaje": -30.0
+          "matricula_2026": 6,
+          "variacion": -4,
+          "porcentaje": -40.0
         },
         "Séptimo Grado": {
           "matricula_2025": 18,
@@ -188234,9 +188234,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 118,
-          "matricula_2026": 95,
-          "variacion": -23,
-          "porcentaje": -19.5
+          "matricula_2026": 94,
+          "variacion": -24,
+          "porcentaje": -20.3
         },
         "Tercer Año": {
           "matricula_2025": 23,
@@ -190769,9 +190769,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 12,
-          "matricula_2026": 12,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 13,
+          "variacion": 1,
+          "porcentaje": 8.3
         },
         "Especialización Laboral Año 1": {
           "matricula_2025": 4,
@@ -193173,9 +193173,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 31,
-          "matricula_2026": 32,
-          "variacion": 1,
-          "porcentaje": 3.2
+          "matricula_2026": 31,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Parvularia 4": {
           "matricula_2025": 6,
@@ -200970,9 +200970,9 @@
         },
         "Segundo Año": {
           "matricula_2025": 73,
-          "matricula_2026": 93,
-          "variacion": 20,
-          "porcentaje": 27.4
+          "matricula_2026": 92,
+          "variacion": 19,
+          "porcentaje": 26.0
         },
         "Séptimo Grado": {
           "matricula_2025": 1,
@@ -201583,9 +201583,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 7,
-          "matricula_2026": 8,
-          "variacion": 1,
-          "porcentaje": 14.3
+          "matricula_2026": 9,
+          "variacion": 2,
+          "porcentaje": 28.6
         },
         "Primer Grado": {
           "matricula_2025": 7,
@@ -201601,9 +201601,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 7,
-          "matricula_2026": 6,
-          "variacion": -1,
-          "porcentaje": -14.3
+          "matricula_2026": 7,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Sexto Grado": {
           "matricula_2025": 6,
@@ -201830,9 +201830,9 @@
         },
         "Quinto Grado": {
           "matricula_2025": 9,
-          "matricula_2026": 24,
-          "variacion": 15,
-          "porcentaje": 166.7
+          "matricula_2026": 23,
+          "variacion": 14,
+          "porcentaje": 155.6
         },
         "Segundo Grado": {
           "matricula_2025": 11,
@@ -203812,9 +203812,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 10,
-          "matricula_2026": 9,
-          "variacion": -1,
-          "porcentaje": -10.0
+          "matricula_2026": 8,
+          "variacion": -2,
+          "porcentaje": -20.0
         },
         "Sexto Grado": {
           "matricula_2025": 11,
@@ -203899,9 +203899,9 @@
         },
         "Parvularia 4": {
           "matricula_2025": 23,
-          "matricula_2026": 28,
-          "variacion": 5,
-          "porcentaje": 21.7
+          "matricula_2026": 27,
+          "variacion": 4,
+          "porcentaje": 17.4
         },
         "Parvularia 5": {
           "matricula_2025": 59,
@@ -206512,9 +206512,9 @@
         },
         "Primer Año": {
           "matricula_2025": 11,
-          "matricula_2026": 17,
-          "variacion": 6,
-          "porcentaje": 54.5
+          "matricula_2026": 18,
+          "variacion": 7,
+          "porcentaje": 63.6
         },
         "Primer Grado": {
           "matricula_2025": 19,
@@ -207091,9 +207091,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 15,
-          "matricula_2026": 16,
-          "variacion": 1,
-          "porcentaje": 6.7
+          "matricula_2026": 15,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Quinto Grado": {
           "matricula_2025": 18,
@@ -207251,9 +207251,9 @@
         },
         "Primer Año": {
           "matricula_2025": 155,
-          "matricula_2026": 136,
-          "variacion": -19,
-          "porcentaje": -12.3
+          "matricula_2026": 135,
+          "variacion": -20,
+          "porcentaje": -12.9
         },
         "Segundo Año": {
           "matricula_2025": 144,
@@ -213230,9 +213230,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 21,
-          "matricula_2026": 16,
-          "variacion": -5,
-          "porcentaje": -23.8
+          "matricula_2026": 15,
+          "variacion": -6,
+          "porcentaje": -28.6
         },
         "Parvularia 4": {
           "matricula_2025": 1,
@@ -213307,9 +213307,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 18,
-          "matricula_2026": 15,
-          "variacion": -3,
-          "porcentaje": -16.7
+          "matricula_2026": 14,
+          "variacion": -4,
+          "porcentaje": -22.2
         },
         "Noveno Grado": {
           "matricula_2025": 19,
@@ -219685,9 +219685,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 46,
-          "matricula_2026": 59,
-          "variacion": 13,
-          "porcentaje": 28.3
+          "matricula_2026": 58,
+          "variacion": 12,
+          "porcentaje": 26.1
         },
         "Noveno Grado": {
           "matricula_2025": 22,
@@ -219697,9 +219697,9 @@
         },
         "Octavo Grado": {
           "matricula_2025": 56,
-          "matricula_2026": 48,
-          "variacion": -8,
-          "porcentaje": -14.3
+          "matricula_2026": 47,
+          "variacion": -9,
+          "porcentaje": -16.1
         },
         "Parvularia 4": {
           "matricula_2025": 23,
@@ -219709,9 +219709,9 @@
         },
         "Parvularia 5": {
           "matricula_2025": 26,
-          "matricula_2026": 40,
-          "variacion": 14,
-          "porcentaje": 53.8
+          "matricula_2026": 39,
+          "variacion": 13,
+          "porcentaje": 50.0
         },
         "Parvularia 6": {
           "matricula_2025": 47,
@@ -219745,9 +219745,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 51,
-          "matricula_2026": 47,
-          "variacion": -4,
-          "porcentaje": -7.8
+          "matricula_2026": 48,
+          "variacion": -3,
+          "porcentaje": -5.9
         },
         "Tercer Grado": {
           "matricula_2025": 53,
@@ -225033,9 +225033,9 @@
         },
         "Primer Año": {
           "matricula_2025": 33,
-          "matricula_2026": 42,
-          "variacion": 9,
-          "porcentaje": 27.3
+          "matricula_2026": 41,
+          "variacion": 8,
+          "porcentaje": 24.2
         },
         "Primer Grado": {
           "matricula_2025": 39,
@@ -227678,9 +227678,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 12,
-          "matricula_2026": 2,
-          "variacion": -10,
-          "porcentaje": -83.3
+          "matricula_2026": 3,
+          "variacion": -9,
+          "porcentaje": -75.0
         },
         "Tercer Grado": {
           "matricula_2025": 13,
@@ -230933,9 +230933,9 @@
       "grados": {
         "Primer Año": {
           "matricula_2025": 201,
-          "matricula_2026": 221,
-          "variacion": 20,
-          "porcentaje": 10.0
+          "matricula_2026": 222,
+          "variacion": 21,
+          "porcentaje": 10.4
         },
         "Segundo Año": {
           "matricula_2025": 220,
@@ -231831,9 +231831,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 10,
-          "matricula_2026": 5,
-          "variacion": -5,
-          "porcentaje": -50.0
+          "matricula_2026": 6,
+          "variacion": -4,
+          "porcentaje": -40.0
         },
         "Noveno Grado": {
           "matricula_2025": 8,
@@ -233213,9 +233213,9 @@
         },
         "Parvularia 4": {
           "matricula_2025": 10,
-          "matricula_2026": 11,
-          "variacion": 1,
-          "porcentaje": 10.0
+          "matricula_2026": 10,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Parvularia 5": {
           "matricula_2025": 17,
@@ -233225,9 +233225,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 22,
-          "matricula_2026": 14,
-          "variacion": -8,
-          "porcentaje": -36.4
+          "matricula_2026": 15,
+          "variacion": -7,
+          "porcentaje": -31.8
         },
         "Primer Grado": {
           "matricula_2025": 29,
@@ -238821,9 +238821,9 @@
         },
         "Quinto Grado": {
           "matricula_2025": 2,
-          "matricula_2026": 8,
-          "variacion": 6,
-          "porcentaje": 300.0
+          "matricula_2026": 10,
+          "variacion": 8,
+          "porcentaje": 400.0
         },
         "Segundo Grado": {
           "matricula_2025": 10,
@@ -240300,9 +240300,9 @@
         },
         "Quinto Grado": {
           "matricula_2025": 14,
-          "matricula_2026": 14,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 15,
+          "variacion": 1,
+          "porcentaje": 7.1
         },
         "Segundo Grado": {
           "matricula_2025": 19,
@@ -265270,9 +265270,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 21,
-          "matricula_2026": 18,
-          "variacion": -3,
-          "porcentaje": -14.3
+          "matricula_2026": 17,
+          "variacion": -4,
+          "porcentaje": -19.0
         },
         "Noveno Grado": {
           "matricula_2025": 11,
@@ -267755,9 +267755,9 @@
       "grados": {
         "Cuarto Grado": {
           "matricula_2025": 18,
-          "matricula_2026": 22,
-          "variacion": 4,
-          "porcentaje": 22.2
+          "matricula_2026": 23,
+          "variacion": 5,
+          "porcentaje": 27.8
         },
         "Noveno Grado": {
           "matricula_2025": 13,
@@ -272351,9 +272351,9 @@
         },
         "Parvularia 6": {
           "matricula_2025": 15,
-          "matricula_2026": 15,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 14,
+          "variacion": -1,
+          "porcentaje": -6.7
         },
         "Primer Grado": {
           "matricula_2025": 18,
@@ -272363,15 +272363,15 @@
         },
         "Quinto Grado": {
           "matricula_2025": 21,
-          "matricula_2026": 16,
-          "variacion": -5,
-          "porcentaje": -23.8
+          "matricula_2026": 17,
+          "variacion": -4,
+          "porcentaje": -19.0
         },
         "Segundo Grado": {
           "matricula_2025": 24,
-          "matricula_2026": 19,
-          "variacion": -5,
-          "porcentaje": -20.8
+          "matricula_2026": 18,
+          "variacion": -6,
+          "porcentaje": -25.0
         },
         "Sexto Grado": {
           "matricula_2025": 12,
@@ -276740,9 +276740,9 @@
         },
         "Segundo Grado": {
           "matricula_2025": 13,
-          "matricula_2026": 10,
-          "variacion": -3,
-          "porcentaje": -23.1
+          "matricula_2026": 11,
+          "variacion": -2,
+          "porcentaje": -15.4
         },
         "Sexto Grado": {
           "matricula_2025": 5,
@@ -276811,9 +276811,9 @@
         },
         "Quinto Grado": {
           "matricula_2025": 19,
-          "matricula_2026": 36,
-          "variacion": 17,
-          "porcentaje": 89.5
+          "matricula_2026": 35,
+          "variacion": 16,
+          "porcentaje": 84.2
         },
         "Segundo Grado": {
           "matricula_2025": 16,
@@ -278482,9 +278482,9 @@
         },
         "Parvularia 5": {
           "matricula_2025": 3,
-          "matricula_2026": 11,
-          "variacion": 8,
-          "porcentaje": 266.7
+          "matricula_2026": 9,
+          "variacion": 6,
+          "porcentaje": 200.0
         },
         "Parvularia 6": {
           "matricula_2025": 1,
@@ -278500,33 +278500,33 @@
         },
         "Quinto Grado": {
           "matricula_2025": 17,
-          "matricula_2026": 13,
-          "variacion": -4,
-          "porcentaje": -23.5
+          "matricula_2026": 12,
+          "variacion": -5,
+          "porcentaje": -29.4
         },
         "Segundo Grado": {
           "matricula_2025": 12,
-          "matricula_2026": 14,
-          "variacion": 2,
-          "porcentaje": 16.7
+          "matricula_2026": 13,
+          "variacion": 1,
+          "porcentaje": 8.3
         },
         "Sexto Grado": {
           "matricula_2025": 13,
-          "matricula_2026": 17,
-          "variacion": 4,
-          "porcentaje": 30.8
+          "matricula_2026": 16,
+          "variacion": 3,
+          "porcentaje": 23.1
         },
         "Séptimo Grado": {
           "matricula_2025": 4,
-          "matricula_2026": 12,
-          "variacion": 8,
-          "porcentaje": 200.0
+          "matricula_2026": 11,
+          "variacion": 7,
+          "porcentaje": 175.0
         },
         "Tercer Grado": {
           "matricula_2025": 14,
-          "matricula_2026": 13,
-          "variacion": -1,
-          "porcentaje": -7.1
+          "matricula_2026": 12,
+          "variacion": -2,
+          "porcentaje": -14.3
         }
       }
     },
@@ -280678,9 +280678,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 9,
-          "matricula_2026": 9,
-          "variacion": 0,
-          "porcentaje": 0.0
+          "matricula_2026": 10,
+          "variacion": 1,
+          "porcentaje": 11.1
         },
         "Quinto Grado": {
           "matricula_2025": 8,
@@ -280743,9 +280743,9 @@
         },
         "Primer Grado": {
           "matricula_2025": 1,
-          "matricula_2026": 5,
-          "variacion": 4,
-          "porcentaje": 400.0
+          "matricula_2026": 4,
+          "variacion": 3,
+          "porcentaje": 300.0
         },
         "Quinto Grado": {
           "matricula_2025": 5,
@@ -281697,9 +281697,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 29,
-          "matricula_2026": 59,
-          "variacion": 30,
-          "porcentaje": 103.4
+          "matricula_2026": 58,
+          "variacion": 29,
+          "porcentaje": 100.0
         },
         "Tercer Grado": {
           "matricula_2025": 66,
@@ -284691,9 +284691,9 @@
         },
         "Sexto Grado": {
           "matricula_2025": 28,
-          "matricula_2026": 24,
-          "variacion": -4,
-          "porcentaje": -14.3
+          "matricula_2026": 23,
+          "variacion": -5,
+          "porcentaje": -17.9
         },
         "Séptimo Grado": {
           "matricula_2025": 20,
@@ -289216,9 +289216,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 34,
-          "matricula_2026": 43,
-          "variacion": 9,
-          "porcentaje": 26.5
+          "matricula_2026": 42,
+          "variacion": 8,
+          "porcentaje": 23.5
         },
         "Tercer Grado": {
           "matricula_2025": 57,
@@ -311014,9 +311014,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 19,
-          "matricula_2026": 30,
-          "variacion": 11,
-          "porcentaje": 57.9
+          "matricula_2026": 31,
+          "variacion": 12,
+          "porcentaje": 63.2
         },
         "Octavo Grado": {
           "matricula_2025": 30,
@@ -334656,8 +334656,8 @@
         },
         "Parvularia 6": {
           "matricula_2025": 0,
-          "matricula_2026": 2,
-          "variacion": 2,
+          "matricula_2026": 3,
+          "variacion": 3,
           "porcentaje": 100.0
         }
       }
@@ -342885,9 +342885,9 @@
         },
         "Tercer Grado": {
           "matricula_2025": 6,
-          "matricula_2026": 3,
-          "variacion": -3,
-          "porcentaje": -50.0
+          "matricula_2026": 2,
+          "variacion": -4,
+          "porcentaje": -66.7
         },
         "Parvularia 5": {
           "matricula_2025": 0,
@@ -358341,9 +358341,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 32,
-          "matricula_2026": 29,
-          "variacion": -3,
-          "porcentaje": -9.4
+          "matricula_2026": 28,
+          "variacion": -4,
+          "porcentaje": -12.5
         },
         "Tercer Grado": {
           "matricula_2025": 30,
@@ -375943,9 +375943,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 46,
-          "matricula_2026": 47,
-          "variacion": 1,
-          "porcentaje": 2.2
+          "matricula_2026": 46,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Octavo Grado": {
           "matricula_2025": 55,
@@ -376768,9 +376768,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 92,
-          "matricula_2026": 82,
-          "variacion": -10,
-          "porcentaje": -10.9
+          "matricula_2026": 81,
+          "variacion": -11,
+          "porcentaje": -12.0
         },
         "Tercer Grado": {
           "matricula_2025": 102,
@@ -378439,9 +378439,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 18,
-          "matricula_2026": 17,
-          "variacion": -1,
-          "porcentaje": -5.6
+          "matricula_2026": 18,
+          "variacion": 0,
+          "porcentaje": 0.0
         },
         "Tercer Grado": {
           "matricula_2025": 21,
@@ -378835,9 +378835,9 @@
         },
         "Primer Año": {
           "matricula_2025": 76,
-          "matricula_2026": 151,
-          "variacion": 75,
-          "porcentaje": 98.7
+          "matricula_2026": 150,
+          "variacion": 74,
+          "porcentaje": 97.4
         },
         "Primer Grado": {
           "matricula_2025": 98,
@@ -380890,9 +380890,9 @@
         },
         "Primer Año": {
           "matricula_2025": 72,
-          "matricula_2026": 70,
-          "variacion": -2,
-          "porcentaje": -2.8
+          "matricula_2026": 69,
+          "variacion": -3,
+          "porcentaje": -4.2
         },
         "Primer Grado": {
           "matricula_2025": 68,
@@ -382562,9 +382562,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 20,
-          "matricula_2026": 28,
-          "variacion": 8,
-          "porcentaje": 40.0
+          "matricula_2026": 27,
+          "variacion": 7,
+          "porcentaje": 35.0
         },
         "Octavo Grado": {
           "matricula_2025": 31,
@@ -382651,9 +382651,9 @@
         },
         "Noveno Grado": {
           "matricula_2025": 22,
-          "matricula_2026": 36,
-          "variacion": 14,
-          "porcentaje": 63.6
+          "matricula_2026": 37,
+          "variacion": 15,
+          "porcentaje": 68.2
         },
         "Octavo Grado": {
           "matricula_2025": 22,
@@ -382699,9 +382699,9 @@
         },
         "Séptimo Grado": {
           "matricula_2025": 32,
-          "matricula_2026": 51,
-          "variacion": 19,
-          "porcentaje": 59.4
+          "matricula_2026": 54,
+          "variacion": 22,
+          "porcentaje": 68.8
         },
         "Tercer Grado": {
           "matricula_2025": 2,
@@ -385042,9 +385042,9 @@
       "grados": {
         "Primer Año": {
           "matricula_2025": 328,
-          "matricula_2026": 255,
-          "variacion": -73,
-          "porcentaje": -22.3
+          "matricula_2026": 251,
+          "variacion": -77,
+          "porcentaje": -23.5
         },
         "Segundo Año": {
           "matricula_2025": 370,
@@ -385093,9 +385093,9 @@
       "grados": {
         "Primer Año": {
           "matricula_2025": 47,
-          "matricula_2026": 28,
-          "variacion": -19,
-          "porcentaje": -40.4
+          "matricula_2026": 27,
+          "variacion": -20,
+          "porcentaje": -42.6
         },
         "Segundo Año": {
           "matricula_2025": 59,
@@ -391313,8 +391313,8 @@
         },
         "Cuarto Grado": {
           "matricula_2025": 0,
-          "matricula_2026": 21,
-          "variacion": 21,
+          "matricula_2026": 20,
+          "variacion": 20,
           "porcentaje": 100.0
         },
         "Tercer Grado": {
@@ -397348,32 +397348,32 @@
       "grados": {
         "Inicial 3": {
           "matricula_2025": 0,
-          "matricula_2026": 24,
-          "variacion": 24,
-          "porcentaje": 100.0
-        },
-        "Parvularia 5": {
-          "matricula_2025": 0,
           "matricula_2026": 23,
           "variacion": 23,
           "porcentaje": 100.0
         },
-        "Inicial 2": {
+        "Parvularia 5": {
+          "matricula_2025": 0,
+          "matricula_2026": 20,
+          "variacion": 20,
+          "porcentaje": 100.0
+        },
+        "Parvularia 4": {
           "matricula_2025": 0,
           "matricula_2026": 19,
           "variacion": 19,
           "porcentaje": 100.0
         },
-        "Parvularia 4": {
+        "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 18,
-          "variacion": 18,
+          "matricula_2026": 16,
+          "variacion": 16,
           "porcentaje": 100.0
         },
         "Inicial 1": {
           "matricula_2025": 0,
-          "matricula_2026": 6,
-          "variacion": 6,
+          "matricula_2026": 7,
+          "variacion": 7,
           "porcentaje": 100.0
         },
         "Parvularia 6": {
@@ -405549,8 +405549,8 @@
         },
         "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 3,
-          "variacion": 3,
+          "matricula_2026": 4,
+          "variacion": 4,
           "porcentaje": 100.0
         },
         "Lactancia": {
@@ -406412,8 +406412,8 @@
         },
         "Inicial 1": {
           "matricula_2025": 0,
-          "matricula_2026": 2,
-          "variacion": 2,
+          "matricula_2026": 3,
+          "variacion": 3,
           "porcentaje": 100.0
         }
       }
@@ -407952,16 +407952,16 @@
           "variacion": 8,
           "porcentaje": 100.0
         },
-        "Inicial 2": {
+        "Inicial 3": {
           "matricula_2025": 0,
           "matricula_2026": 5,
           "variacion": 5,
           "porcentaje": 100.0
         },
-        "Inicial 3": {
+        "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 4,
-          "variacion": 4,
+          "matricula_2026": 5,
+          "variacion": 5,
           "porcentaje": 100.0
         }
       }
@@ -416578,8 +416578,8 @@
         },
         "Inicial 1": {
           "matricula_2025": 0,
-          "matricula_2026": 2,
-          "variacion": 2,
+          "matricula_2026": 3,
+          "variacion": 3,
           "porcentaje": 100.0
         },
         "Lactancia": {
@@ -420389,8 +420389,8 @@
         },
         "Inicial 1": {
           "matricula_2025": 0,
-          "matricula_2026": 7,
-          "variacion": 7,
+          "matricula_2026": 6,
+          "variacion": 6,
           "porcentaje": 100.0
         },
         "Inicial 3": {
@@ -420470,20 +420470,20 @@
         },
         "Lactancia": {
           "matricula_2025": 0,
-          "matricula_2026": 7,
-          "variacion": 7,
-          "porcentaje": 100.0
-        },
-        "Inicial 1": {
-          "matricula_2025": 0,
-          "matricula_2026": 5,
-          "variacion": 5,
+          "matricula_2026": 6,
+          "variacion": 6,
           "porcentaje": 100.0
         },
         "Inicial 3": {
           "matricula_2025": 0,
           "matricula_2026": 4,
           "variacion": 4,
+          "porcentaje": 100.0
+        },
+        "Inicial 1": {
+          "matricula_2025": 0,
+          "matricula_2026": 3,
+          "variacion": 3,
           "porcentaje": 100.0
         }
       }
@@ -422260,8 +422260,8 @@
         },
         "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 5,
-          "variacion": 5,
+          "matricula_2026": 6,
+          "variacion": 6,
           "porcentaje": 100.0
         },
         "Inicial 1": {
@@ -422957,8 +422957,8 @@
       "grados": {
         "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 9,
-          "variacion": 9,
+          "matricula_2026": 8,
+          "variacion": 8,
           "porcentaje": 100.0
         },
         "Inicial 1": {
@@ -422967,13 +422967,13 @@
           "variacion": 5,
           "porcentaje": 100.0
         },
-        "Inicial 3": {
+        "Lactancia": {
           "matricula_2025": 0,
-          "matricula_2026": 2,
-          "variacion": 2,
+          "matricula_2026": 1,
+          "variacion": 1,
           "porcentaje": 100.0
         },
-        "Lactancia": {
+        "Inicial 3": {
           "matricula_2025": 0,
           "matricula_2026": 1,
           "variacion": 1,
@@ -424306,8 +424306,8 @@
       "grados": {
         "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 10,
-          "variacion": 10,
+          "matricula_2026": 11,
+          "variacion": 11,
           "porcentaje": 100.0
         },
         "Inicial 3": {
@@ -424335,8 +424335,8 @@
         },
         "Inicial 3": {
           "matricula_2025": 0,
-          "matricula_2026": 9,
-          "variacion": 9,
+          "matricula_2026": 10,
+          "variacion": 10,
           "porcentaje": 100.0
         },
         "Inicial 1": {
@@ -427847,8 +427847,8 @@
         },
         "Inicial 1": {
           "matricula_2025": 0,
-          "matricula_2026": 3,
-          "variacion": 3,
+          "matricula_2026": 4,
+          "variacion": 4,
           "porcentaje": 100.0
         },
         "Inicial 2": {
@@ -427887,8 +427887,8 @@
       "grados": {
         "Inicial 3": {
           "matricula_2025": 0,
-          "matricula_2026": 7,
-          "variacion": 7,
+          "matricula_2026": 8,
+          "variacion": 8,
           "porcentaje": 100.0
         },
         "Inicial 2": {
@@ -448364,8 +448364,8 @@
         },
         "Inicial 2": {
           "matricula_2025": 0,
-          "matricula_2026": 4,
-          "variacion": 4,
+          "matricula_2026": 5,
+          "variacion": 5,
           "porcentaje": 100.0
         },
         "Lactancia": {
